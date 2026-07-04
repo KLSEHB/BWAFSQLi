@@ -1,0 +1,109 @@
+芒聙聵 or 3  =  3 --
+脙陆 or 1  =  1 --
+鈥?or 1  =  1 --
+%7C
+(  sqlvuln  )
+truncate
+replace
+|
+*|
+.s
+1%'
+&
+-'
+*/*
+1s
+%2A%28%7C%28objectclass%3D%2A%29%29
+0x77616974666F722064656C61792027303A303A313027 ...
+0.21
+ union select
+(  s
+exec xp_regread
+&1c
+{s
+5739-5738
+,@variable
+&apos
+procedure
+having
+0x730065006c00650063007400200040004000760065007200730069006f006e00 exec  (  @q  ) 
+distinct
+truncate
+)  s
+PRINT @@variable
+0x770061006900740066006F0072002000640065006C00
+)
+s
+nan
+*'
+--
+v
+delete
+to_timestamp_tz
+UEs
+"*"
+bfilename
+0
+UE1
+end if
+handler
+n
+.s
+like
+char%4039%41%2b%40SELECT
+&'
+order by
+1'1
+@
+procedure
+0.28
+"^"
+exec sp
+0.26
+UNION ALL SELECT
+\x27UNION SELECT
+&
+UEv
+a
+PRINT
+end#
+"-"
+update
+exec xp
+UNION ALL SELECT
+1"
+ 0x730065006c0065006300740020004000400076006500 ...
+asc
+?s
+end
+desc
+or
+(
+tz_offset
+//*
+UNION SELECT
+310000000000000000
+'
+,s
+%2A%7C
+as
+ns
+!
+1
+1  ) 
+limit
+sqlattempt1
+0.29
+鈥?or 鈥?鈥? =  鈥?
+鈥?or 3  =  3 --
+" "
+芒聙聵 or 1  =  1 --
+//
+select
+UEf
+sleep 50'
+1\'1
+end--
+insert
+%2A%28%7C%28mail%3D%2A%29%29
+ begin declare @var varchar  (  8000  )   set @var  =  ' …

