@@ -26,7 +26,7 @@
 - `-r` / `--request_method`：请求方式与参数格式
 - `-status` / `--intercept_status`：黑盒拦截状态码
 - `-mat` / `--max_attempts`：单个 payload 的最大尝试轮数
-- `-mst` / `--max_steps`：单轮最大步数
+- `-mst` / `--max_steps`：单轮突变策略最大使用次数
 
 ## 运行方式
 
